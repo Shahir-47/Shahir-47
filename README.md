@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://imgur.com/AvWy8Nh" alt="Welcome!" width="300"/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98346408/205467195-d595274e-f00f-440e-98aa-fa92bb56779d.gif)
 
 </div>
 
