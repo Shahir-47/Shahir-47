@@ -57,4 +57,4 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 <a href="https://open.spotify.com/user/31sixq557nhgvgaplnlny6rwhowi" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
-[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47/master?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47/?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)
