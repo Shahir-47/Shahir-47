@@ -11,7 +11,7 @@
 ## 🖥 &nbsp;About me 👋🏼👨
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shahir Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
