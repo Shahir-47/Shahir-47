@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-## 🖥 &nbsp;About me 👋🏼👨
+## 🖥 About me 👋🏼👨
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
