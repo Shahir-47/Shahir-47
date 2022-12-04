@@ -30,6 +30,8 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 
 I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor's in Computer Science and Mathematics, who is passionate about  Machine Learning:bar_chart:, Software Development :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
+- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+
 </div>
 <div align="center">
   
