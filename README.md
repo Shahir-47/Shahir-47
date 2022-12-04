@@ -33,7 +33,7 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 </br>
 </br>
 <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
 
