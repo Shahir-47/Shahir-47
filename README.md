@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="center">
+
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
@@ -17,7 +17,6 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
-</div>
 
 <div align="center">
 
