@@ -62,7 +62,7 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 ## 😉 &nbsp;Random dev joke for you!
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
----
+## &nbsp;
 
 <i>Follow me around the web:</i><br>
 
