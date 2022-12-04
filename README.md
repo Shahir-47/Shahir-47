@@ -54,9 +54,7 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/SpaceAccuracy)
 
-</br>
-</br>
-<i>Random dev joke for you!</i><br>
+## 😉 &nbsp;Random dev joke for you!
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
