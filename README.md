@@ -48,7 +48,7 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 <div align="center">
 
 ## 📊 &nbsp;Stats
-<img align="center" src="https://github-readme-stats-vg6-git-master-shahir-47.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shahir's Github Stats">
+<img align="center" src="https://github-readme-stats-2cpj.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shahir's Github Stats">
 
   
   
@@ -56,7 +56,7 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 	
 <strong>Consider giving my work a :star: to show some :heart:</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/SpaceAccuracy)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/SpaceAccuracy)
   
 
 ## 😉 &nbsp;Random dev joke for you!
