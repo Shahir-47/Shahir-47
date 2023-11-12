@@ -53,12 +53,16 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
   
   
  ## 🖥 &nbsp;Past work
-</div>
+
 <strong>Consider giving my work a :star: to show some :heart:</strong>
-<div align="center">	
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/https://github.com/Shahir-47/Todo-List) [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Weather-Whiz)
+
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/https://github.com/Shahir-47/Todo-List) 
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Weather-Whiz)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Calculator)
-  
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Calculator)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Restaurant-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Restaurant-Page)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Tic-Tac-Toe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Tic-Tac-Toe)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Etch-a-Sketch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Etch-a-Sketch)
 
 ## 😉 &nbsp;Random dev joke for you!
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
