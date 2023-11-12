@@ -55,8 +55,8 @@ I am a 2nd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
  ## 🖥 &nbsp;Past work
 	
 <strong>Consider giving my work a :star: to show some :heart:</strong>
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/https://github.com/Shahir-47/Todo-List)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/SpaceAccuracy)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/https://github.com/Shahir-47/Todo-List) [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Weather-Whiz)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Calculator)
   
 
 ## 😉 &nbsp;Random dev joke for you!
