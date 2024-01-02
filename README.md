@@ -56,7 +56,8 @@ I am a 3rd-year undergraduate Student at Dickinson College, pursuing a Bachelor'
 
 <strong>Consider giving my work a :star: to show some :heart:</strong>
 
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Todo-List) 
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Todo-List)
+[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Battleship&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Battleship) 
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Weather-Whiz)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Calculator)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Restaurant-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Restaurant-Page)
