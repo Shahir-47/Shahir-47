@@ -28,7 +28,7 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 [![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
 
 
-I am a 3rd-year undergraduate Student at Dickinson College, pursuing a Bachelor's in Computer Science and Mathematics, who is passionate about  Machine Learning:bar_chart:, Software Development :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a junior at Dickinson College, pursuing a Bachelor's in Computer Science and Mathematics, who is passionate about  Machine Learning:bar_chart:, Software Development:snake:, and open source:octocat:. I love to learn and contribute in any and every possible way.
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 
