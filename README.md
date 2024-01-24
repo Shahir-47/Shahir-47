@@ -23,7 +23,7 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 <div align="center">
 
 ## 👨 &nbsp;About me
-
+[![Website Badge](https://img.shields.io/badge/-My%20Website-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
 
