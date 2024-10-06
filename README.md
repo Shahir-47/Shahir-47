@@ -62,9 +62,13 @@ I am a junior at Dickinson College, pursuing a Bachelor's in Computer Science an
 
 ## 📊 &nbsp;Stats
 <img align="center" src="https://github-readme-stats-2cpj.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shahir's Github Stats">
+&nbsp &nbsp
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir-47&layout=compact&hide_border=false&card_width=495&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shahir's Top Languages">
+<br></br>
 
-  
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahir-47&theme=default&background=0,000000,130F40&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats)
+
+
  ## 🖥 &nbsp;Past work
 
 <strong>Consider giving my work a :star: to show some :heart:</strong>
