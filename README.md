@@ -65,7 +65,7 @@ I am a junior at Dickinson College, pursuing a Bachelor's in Computer Science an
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir-47&layout=compact&hide_border=true&card_width=495&title_color=7A7ADB&text_color=D3D3D3&bg_color=00000000" alt="Shahir's Top Languages">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahir-47&theme=default&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahir-47&theme=default&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats)
 
 
  ## 🖥 &nbsp;Past work
