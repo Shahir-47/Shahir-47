@@ -48,11 +48,11 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>✍️</td>
-    <td>Read my thoughts on tech and more on my <a href="https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1">Blog</a></td>
+    <td>Read my thoughts on tech and more on my <a href="https://shahir-47.blogspot.com/">Blog</a></td>
   </tr>
   <tr>
     <td>📫</td>
-    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/ahmeds561?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a></td>
+    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/ahmeds561">Devpost</a></td>
   </tr>
 </table>
 
