@@ -52,7 +52,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>📫</td>
-    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/software/albatross">Devpost</a></td>
+    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/ahmeds561?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a></td>
   </tr>
 </table>
 
