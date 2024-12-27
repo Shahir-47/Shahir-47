@@ -27,12 +27,40 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
 
+I am a senior at Dickinson College, double majoring in Computer Science and Mathematics. My focus is on **full-stack software development**, where I build scalable and efficient applications while contributing to open-source projects.
 
-I am a junior at Dickinson College, pursuing a Bachelor's in Computer Science and Mathematics, who is passionate about  Machine Learning 📊, Software Development 🐍, and open source 🐙. I love to learn and contribute in any and every possible way.
+<table align="center">
+  <tr>
+    <td>💻</td>
+    <td>Previous SWE Intern @ <a href="https://github.com/FarmData2">FarmData2</a></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td>Senior majoring in Computer Science and Mathematics @ <a href="https://www.dickinson.edu/">Dickinson College</a></td>
+  </tr>
+  <tr>
+    <td>🌟</td>
+    <td>Skilled in Vue.js, React, Flask, PostgreSQL, Docker, and more</td>
+  </tr>
+  <tr>
+    <td>⚽</td>
+    <td>Soccer enthusiast and proud supporter of <a href="https://www.realmadrid.com/en">Real Madrid</a></td>
+  </tr>
+  <tr>
+    <td>✍️</td>
+    <td>Read my thoughts on tech and more on my <a href="https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1">Blog</a></td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/software/albatross">Devpost</a></td>
+  </tr>
+</table>
 
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shahir47/).
 
 </div>
+
+
 <div align="center">
   
  ## 👨🏻‍💻 &nbsp;Languages and Tools <br />
