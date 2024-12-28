@@ -32,7 +32,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 <table align="center">
   <tr>
     <td>💻</td>
-    <td>Previous SWE Intern @ <a href="https://github.com/FarmData2">FarmData2</a></td>
+    <td>SWE Intern @ <a href="https://github.com/FarmData2">FarmData2</a></td>
   </tr>
   <tr>
     <td>🎓</td>
