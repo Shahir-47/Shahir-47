@@ -155,7 +155,6 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 <strong>Consider giving my work a :star: to show some :heart:</strong>
 
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=braughtg&repo=FarmData2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/FarmData2/FarmData2)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=front-end&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/front-end)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=dmicz&repo=SweetFriend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dmicz/SweetFriend)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/Todo-List)
 [![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Shahir-47/recover)
