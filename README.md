@@ -25,7 +25,9 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 ## 👨 &nbsp;About me
 [![Website Badge](https://img.shields.io/badge/-My%20Website-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47// "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
+[![Devpost Badge](https://img.shields.io/badge/-My%20Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
+[![Blogspot Badge](https://img.shields.io/badge/-My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
 
 I am a senior at Dickinson College, double majoring in Computer Science and Mathematics. My focus is on **full-stack software development**, where I build scalable and efficient applications while contributing to open-source projects.
 
@@ -53,6 +55,10 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   <tr>
     <td>📫</td>
     <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/ahmeds561">Devpost</a></td>
+  </tr>
+   <tr>
+    <td>✉️</td>
+    <td>Email me at <a href="mailto:ahmeds@dickinson.edu">ahmeds@dickinson.edu</a></td>
   </tr>
 </table>
 
@@ -131,9 +137,13 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/shahir47/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/shahirahmed._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-\
-\
-[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)<space><space>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
+[![Website Badge](https://img.shields.io/badge/-My%20Website-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
+[![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
+[![Devpost Badge](https://img.shields.io/badge/-My%20Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
+[![Blogspot Badge](https://img.shields.io/badge/-My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
+
+[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
+
+
+
