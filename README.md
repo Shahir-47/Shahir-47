@@ -137,11 +137,12 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 
 <i>Follow me around the web:</i><br>
 
-[![Website Badge](https://img.shields.io/badge/-My%20Website-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
-[![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
-[![Devpost Badge](https://img.shields.io/badge/-My%20Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
-[![Blogspot Badge](https://img.shields.io/badge/-My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shahirahmed._/ "Visit My Instagram")
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
+[![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
+[![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
+[![Website Badge](https://img.shields.io/badge/-Portfolio-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Portfolio")
 
 [![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
 
