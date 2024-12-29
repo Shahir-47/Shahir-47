@@ -28,6 +28,8 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 [![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
 [![Devpost Badge](https://img.shields.io/badge/-My%20Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
 [![Blogspot Badge](https://img.shields.io/badge/-My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shahirahmed._ "Follow me on Instagram")
+
 
 I am a senior at Dickinson College, double majoring in Computer Science and Mathematics. My focus is on **full-stack software development**, where I build scalable and efficient applications while contributing to open-source projects.
 
