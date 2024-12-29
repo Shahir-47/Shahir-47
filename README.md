@@ -261,7 +261,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
     </td>
     <td>
       <a href="https://github.com/Shahir-47/speller">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="speller">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="speller">
       </a>
     </td>
   </tr>
