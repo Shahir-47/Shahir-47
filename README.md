@@ -195,8 +195,8 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Shahir-47/Todo-List">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Todo-List">
+     <a href="https://github.com/Shahir-47/filter">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="filter">
       </a>
     </td>
     <td>
@@ -263,15 +263,6 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
       <a href="https://github.com/Shahir-47/speller">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="speller">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/filter">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="filter">
-      </a>
-    </td>
-    <td>
     </td>
   </tr>
 </table>
