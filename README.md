@@ -312,7 +312,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 [![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
 [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Portfolio")
 
-<hr>
+<br>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
 
