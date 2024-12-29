@@ -176,27 +176,15 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
       </a>
     </td>
     <td>
+      <a href="https://github.com/Shahir-47/Weather-Whiz">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Weather-Whiz">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Shahir-47/Todo-List">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Todo-List">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/recover">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="recover">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/dna">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=dna&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="dna">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/Shahir-47/filter">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="filter">
       </a>
     </td>
     <td>
@@ -207,44 +195,8 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Shahir-47/Weather-Whiz">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Weather-Whiz">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Calculator">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Calculator">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/Resume-Builder">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Resume-Builder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Resume-Builder">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/runoff">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=runoff&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="runoff">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/Shahir-47/Tic-Tac-Toe">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Tic-Tac-Toe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Tic-Tac-Toe">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Etch-a-Sketch">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Etch-a-Sketch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Etch-a-Sketch">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/credit">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=credit&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="credit">
       </a>
     </td>
     <td>
@@ -255,13 +207,61 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Shahir-47/SpaceAccuracy">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="SpaceAccuracy">
+      <a href="https://github.com/Shahir-47/Resume-Builder">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Resume-Builder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Resume-Builder">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/recover">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="recover">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/dna">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=dna&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="dna">
       </a>
     </td>
     <td>
       <a href="https://github.com/Shahir-47/speller">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="speller">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/filter">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="filter">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/SpaceAccuracy">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="SpaceAccuracy">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/Etch-a-Sketch">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Etch-a-Sketch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Etch-a-Sketch">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/Calculator">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Calculator">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/runoff">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=runoff&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="runoff">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/credit">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=credit&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="credit">
       </a>
     </td>
   </tr>
