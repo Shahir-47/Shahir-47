@@ -23,12 +23,12 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 <div align="center">
 
 ## 👨 &nbsp;About me
-[![Website Badge](https://img.shields.io/badge/-My%20Website-707070?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
-[![Gmail Badge](https://img.shields.io/badge/-ahmeds@dickinson.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shahir%20Ahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
-[![Devpost Badge](https://img.shields.io/badge/-My%20Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
-[![Blogspot Badge](https://img.shields.io/badge/-My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blogspot")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shahirahmed._ "Follow me on Instagram")
+[![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
+[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Send an Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
+[![Devpost Badge](https://img.shields.io/badge/-Check%20out%20My%20Devpost-003e54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "See My Devpost Projects")
+[![Blogspot Badge](https://img.shields.io/badge/-Read%20My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.blogger.com/u/1/blog/posts/78281684526905842?pli=1 "Read My Blog")
+[![Instagram Badge](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username "Follow Me on Instagram")
 
 
 I am a senior at Dickinson College, double majoring in Computer Science and Mathematics. My focus is on **full-stack software development**, where I build scalable and efficient applications while contributing to open-source projects.
