@@ -154,29 +154,39 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 
 <strong>Consider giving my work a :star: to show some :heart:</strong>
 
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=braughtg&repo=FarmData2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/FarmData2/FarmData2)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=front-end&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/HackHarvard2024-Team/front-end)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=dmicz&repo=SweetFriend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/dmicz/SweetFriend)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Todo-List)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/recover)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=dna&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/dna)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Todo-List)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Battleship&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Battleship) 
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Weather-Whiz)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Calculator)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Resume-Builder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Resume-Builder)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Restaurant-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Restaurant-Page)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Tic-Tac-Toe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Tic-Tac-Toe)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Etch-a-Sketch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Etch-a-Sketch)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Memory-Card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Memory-Card)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Portfolio-Website&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/Portfolio-Website)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/SpaceAccuracy) 
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/speller)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/filter)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=runoff&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/runoff)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=substitution&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/substitution)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=readability&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/readability)
-[![Readme Card](https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=credit&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30)](https://github.com/Shahir-47/credit)
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: center;">Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/FarmData2/FarmData2"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=braughtg&repo=FarmData2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="FarmData2"></a></td>
+      <td><a href="https://github.com/HackHarvard2024-Team/front-end"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=front-end&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="front-end"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dmicz/SweetFriend"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=dmicz&repo=SweetFriend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="SweetFriend"></a></td>
+      <td><a href="https://github.com/Shahir-47/Todo-List"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Todo-List"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shahir-47/recover"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="recover"></a></td>
+      <td><a href="https://github.com/Shahir-47/dna"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=dna&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="dna"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shahir-47/Battleship"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Battleship&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Battleship"></a></td>
+      <td><a href="https://github.com/Shahir-47/Weather-Whiz"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Weather-Whiz"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shahir-47/Calculator"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Calculator"></a></td>
+      <td><a href="https://github.com/Shahir-47/Resume-Builder"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Resume-Builder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Resume-Builder"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shahir-47/Restaurant-Page"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Restaurant-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Restaurant-Page"></a></td>
+      <td><a href="https://github.com/Shahir-47/Tic-Tac-Toe"><img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Tic-Tac-Toe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=30" alt="Tic-Tac-Toe"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 😉 &nbsp;Random dev joke for you!
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
