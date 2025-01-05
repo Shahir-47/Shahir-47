@@ -26,7 +26,7 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 [![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Send an Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
-[![Devpost Badge](https://img.shields.io/badge/-Check%20out%20My%20Devpost-003e54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/shahir-47 "See My Devpost Projects")
+[![Devpost Badge](https://img.shields.io/badge/-Check%20out%20My%20Devpost-003e54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/ahmeds561 "See My Devpost Projects")
 [![Blogspot Badge](https://img.shields.io/badge/-Read%20My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blog")
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shahirahmed._ "Follow Me on Instagram")
 
@@ -276,7 +276,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shahirahmed._/ "Visit My Instagram")
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
-[![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/shahir-47 "Visit My Devpost")
+[![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/ahmeds561 "Visit My Devpost")
 [![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blogspot")
 [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Portfolio")
 
