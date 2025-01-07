@@ -278,7 +278,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
 [![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/ahmeds561 "Visit My Devpost")
 [![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blogspot")
-[![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://github.com/Shahir-47/personal-website/ "Visit My Portfolio")
+[![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Portfolio")
 
 <br>
 
