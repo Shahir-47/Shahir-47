@@ -200,8 +200,8 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
       </a>
     </td>
     <td>
-      <a href="https://github.com/Shahir-47/personal-website/">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=personal-website&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Personal Website">
+      <a href="https://github.com/Shahir-47/shahirahmed.com">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=shahirahmed.com&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="shahirahmed.com">
       </a>
     </td>
   </tr>
