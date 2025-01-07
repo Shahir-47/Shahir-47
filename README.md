@@ -23,7 +23,7 @@ or <a href="mailto:ahmeds@dickinson.edu"><b>email</b></a> me.
 <div align="center">
 
 ## 👨 &nbsp;About me
-[![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Website")
+[![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-333333?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Send an Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
 [![Devpost Badge](https://img.shields.io/badge/-Check%20out%20My%20Devpost-003e54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/ahmeds561 "See My Devpost Projects")
@@ -56,7 +56,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>📫</td>
-    <td>Learn more about me on my <a href="https://shahir-47.github.io/Portfolio-Website/">Portfolio</a> or <a href="https://devpost.com/ahmeds561">Devpost</a></td>
+    <td>Learn more about me on my <a href="https://shahirahmed.com/">Portfolio</a> or <a href="https://devpost.com/ahmeds561">Devpost</a></td>
   </tr>
    <tr>
     <td>✉️</td>
@@ -200,8 +200,8 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
       </a>
     </td>
     <td>
-      <a href="https://github.com/Shahir-47/Portfolio-Website">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Portfolio-Website&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Portfolio-Website">
+      <a href="https://github.com/Shahir-47/personal-website/">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=personal-website&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Personal Website">
       </a>
     </td>
   </tr>
@@ -278,7 +278,7 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ahmeds@dickinson.edu "Connect via Email")
 [![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/ahmeds561 "Visit My Devpost")
 [![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blogspot")
-[![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://shahir-47.github.io/Portfolio-Website/# "Visit My Portfolio")
+[![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://github.com/Shahir-47/personal-website/ "Visit My Portfolio")
 
 <br>
 
