@@ -184,18 +184,6 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Shahir-47/Weather-Whiz">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Weather-Whiz&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Weather-Whiz">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Todo-List">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Todo-List&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Todo-List">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/Shahir-47/Battleship">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Battleship&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Battleship">
       </a>
@@ -248,31 +236,6 @@ I am a senior at Dickinson College, double majoring in Computer Science and Math
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="SpaceAccuracy">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Etch-a-Sketch">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Etch-a-Sketch&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Etch-a-Sketch">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/Calculator">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Calculator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Calculator">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/runoff">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=runoff&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="runoff">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/credit">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=credit&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="credit">
-      </a>
-    </td>
-    <td></td>
   </tr>
 </table>
 
