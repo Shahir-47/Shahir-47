@@ -31,36 +31,50 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shahirahmed._ "Follow Me on Instagram")
 
 
-I am a senior at Dickinson College, double majoring in Computer Science and Mathematics. My focus is on **full-stack software development**, where I build scalable and efficient applications while contributing to open-source projects.
+👋 Hi, I'm Shahir Ahmed. I'm a full-stack developer focused on building scalable web apps using React, Vue, Node.js, Express, AWS, and Firebase. I enjoy modern web architecture and solving real-world problems with code.
 
 <table align="center">
   <tr>
     <td>💻</td>
-    <td>SWE Intern @ <a href="https://github.com/FarmData2">FarmData2</a></td>
+    <td>
+      Open source contributor at <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2">FarmData2</a>
+    </td>
   </tr>
   <tr>
-    <td>🎓</td>
-    <td>Senior majoring in Computer Science and Mathematics @ <a href="https://www.dickinson.edu/">Dickinson College</a></td>
+    <td>🌐</td>
+    <td>
+      Full-stack engineering, cloud platforms, and secure web infrastructure are my specialties. My experience includes React, Vue, Node.js, Express, AWS, Firebase, S3, and Docker.
+    </td>
   </tr>
   <tr>
-    <td>🌟</td>
-    <td>Skilled in Vue.js, React, Flask, PostgreSQL, Docker, and more</td>
+    <td>🛠️</td>
+    <td>
+      Recent projects: <a href="https://www.sarvabazaar.com">Sarva (grocery delivery)</a> and <a href="https://peer-to-playlist.onrender.com">Peer-to-Playlist (music matching app)</a>
+    </td>
   </tr>
   <tr>
     <td>⚽</td>
-    <td>Soccer enthusiast and proud supporter of <a href="https://www.realmadrid.com/en">Real Madrid</a></td>
+    <td>
+      Soccer enthusiast and proud supporter of <a href="https://www.realmadrid.com/en">Real Madrid</a>
+    </td>
   </tr>
   <tr>
     <td>✍️</td>
-    <td>Read my thoughts on tech and more on my <a href="https://shahir-47.blogspot.com/">Blog</a></td>
+    <td>
+      Read my thoughts on tech and more on my <a href="https://shahir-47.blogspot.com/">blog</a>
+    </td>
   </tr>
   <tr>
     <td>📫</td>
-    <td>Learn more about me on my <a href="https://shahirahmed.com/">Portfolio</a> or <a href="https://devpost.com/Shahir-47">Devpost</a></td>
+    <td>
+      Portfolio: <a href="https://shahirahmed.com/">shahirahmed.com</a> | Devpost: <a href="https://devpost.com/Shahir-47">Shahir-47</a>
+    </td>
   </tr>
-   <tr>
+  <tr>
     <td>✉️</td>
-    <td>Email me at <a href="mailto:shahirahmed.dev@gmail.com">shahirahmed.dev@gmail.com</a></td>
+    <td>
+      Contact: <a href="mailto:shahirahmed.dev@gmail.com">shahirahmed.dev@gmail.com</a>
+    </td>
   </tr>
 </table>
 
