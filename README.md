@@ -20,16 +20,23 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
  
 </div>
 
+<br>
+
 <div align="center">
 
 ## 👨 &nbsp;About me
-[![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-333333?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
-[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=gmail&logoColor=white)](mailto:shahirahmed.dev@gmail.com "Send an Email")
+[![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-15AABF?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
+[![Open Source Badge](https://img.shields.io/badge/-See%20Open%20Source%20Contributions-7952B3?style=flat&logo=github&logoColor=white)](https://github.com/Shahir-47/open-source-contributions "See My Open Source Contributions")
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
-[![Devpost Badge](https://img.shields.io/badge/-Check%20out%20My%20Devpost-003e54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Shahir-47 "See My Devpost Projects")
-[![Blogspot Badge](https://img.shields.io/badge/-Read%20My%20Blogspot-FF5722?style=flat&logo=blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blog")
+[![Devpost Badge](https://img.shields.io/badge/-Check%20out%20Devpost-0096C7?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Shahir-47 "See My Devpost Projects")
+[![Blogspot Badge](https://img.shields.io/badge/-Read%20My%20Blogspot-FF9800?style=flat&logo=blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blog")
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shahirahmed._ "Follow Me on Instagram")
+[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahirahmed.dev@gmail.com "Send an Email")
 
+
+
+
+<div align="center">
 
 👋 Hi, I'm Shahir Ahmed. I'm a full-stack developer focused on building scalable web apps using React, Vue, Node.js, Express, AWS, and Firebase. I enjoy modern web architecture and solving real-world problems with code.
 
@@ -37,7 +44,11 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>💻</td>
     <td>
-      Open source contributor at <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2">FarmData2</a>
+      Open source contributor at 
+      <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and 
+      <a href="https://github.com/FarmData2">FarmData2</a>.<br>
+      See my full open source portfolio: 
+      <a href="https://github.com/Shahir-47/open-source-contributions">Open Source Contributions</a>
     </td>
   </tr>
   <tr>
@@ -76,12 +87,67 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
       Contact: <a href="mailto:shahirahmed.dev@gmail.com">shahirahmed.dev@gmail.com</a>
     </td>
   </tr>
+  <tr>
+    <td>🔗</td>
+    <td>
+      Connect with me on <a href="https://linkedin.com/in/shahir47/">LinkedIn</a>
+    </td>
+  </tr>
 </table>
-
-💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shahir47/).
 
 </div>
 
+<br>
+
+
+<div align="center">
+
+## 🌟 &nbsp;Open Source Contributions
+
+<table align="center">
+  <tr>
+    <td>🧜‍♂️</td>
+    <td>
+      <b>Mermaid.js</b> — Top 25 contributor.<br>
+      Added major features and improvements to diagram rendering.<br>
+      <a href="https://github.com/mermaid-js/mermaid">View project</a>
+    </td>
+    <td>
+      <a href="https://github.com/mermaid-js/mermaid">
+        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="21" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>🥕</td>
+    <td>
+      <b>FarmData2</b> — #2 overall contributor.<br>
+      Core frontend & backend work, data forms, and infra.<br>
+      <a href="https://github.com/FarmData2/FarmData2">View project</a>
+    </td>
+    <td>
+      <a href="https://github.com/FarmData2/FarmData2">
+        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="21" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>🗂️</td>
+    <td>
+      <b>See my full open source portfolio</b><br>
+      Detailed breakdown of my work, merged PRs, and stats across all major OSS projects.
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/open-source-contributions">
+        <img src="https://img.shields.io/badge/-Open%20Source%20Portfolio-7952B3?style=flat&logo=github&logoColor=white" height="21" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
   
@@ -172,6 +238,9 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   </tbody>
 </table>
 </div>
+
+<br>
+
 <div align="center">
 
 ## 📊 &nbsp;Stats
@@ -181,12 +250,13 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahir-47&theme=default&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats)
 
+<br>
 
- ## 🖥 &nbsp;Past work
+## 🖥 &nbsp;Past Work
 
 <strong>Consider giving my work a :star: to show some :heart:</strong>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/FarmData2/FarmData2">
@@ -194,72 +264,41 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
       </a>
     </td>
     <td>
-      <a href="https://github.com/HackHarvard2024-Team/front-end">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=front-end&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="front-end">
+      <a href="https://github.com/Shahir-47/open-source-contributions">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=open-source-contributions&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Open Source Contributions">
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/sarva">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Sarva-template&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Sarva">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shahir-47/peer-to-playlist">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=peer-to-playlist&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Peer-to-Playlist">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shahir-47/albatross">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=front-end&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Albatross">
+      </a>
+    </td>
     <td>
       <a href="https://github.com/dmicz/SweetFriend">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=dmicz&repo=SweetFriend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="SweetFriend">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Shahir-47/bittorrent-client-js">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=bittorrent-client-js&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="bittorrent-client-js">
+        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=bittorrent-client-js&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="BitTorrent Client JS">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/Battleship">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Battleship&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Battleship">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Tic-Tac-Toe">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Tic-Tac-Toe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Tic-Tac-Toe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/shahirahmed.com">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=shahirahmed.com&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=20" alt="shahirahmed.com">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/Resume-Builder">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=Resume-Builder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="Resume-Builder">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/recover">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=recover&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="recover">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/dna">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=dna&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="dna">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shahir-47/speller">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=speller&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="speller">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/filter">
-        <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=filter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="filter">
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Shahir-47/SpaceAccuracy">
         <img src="https://github-readme-stats-2cpj.vercel.app/api/pin/?username=Shahir-47&repo=SpaceAccuracy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&cache_seconds=10" alt="SpaceAccuracy">
@@ -267,6 +306,8 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     </td>
   </tr>
 </table>
+
+<br>
 
 
 ## 😉 &nbsp;Random dev joke for you!
