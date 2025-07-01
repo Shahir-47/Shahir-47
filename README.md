@@ -97,7 +97,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
-        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="11" />
+        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="21" />
       </a>
     </td>
   </tr>
