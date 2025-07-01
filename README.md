@@ -49,7 +49,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🌟</td>
     <td>
       <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid">Top 25 contributor to Mermaid.js</a> serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a>, and <a href="https://github.com/FarmData2/FarmData2">#2 contributor to FarmData2</a>.<br>
-      Enhanced diagram systems with advanced algorithms and built scalable farm management tools supporting USDA compliance.
+      Enhanced diagram systems with advanced algorithms and built farm management tools supporting USDA compliance.
     </td>
   </tr>
   <tr>
