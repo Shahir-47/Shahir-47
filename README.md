@@ -92,7 +92,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🧜‍♂️</td>
     <td>
-      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://npmtrends.com/mermaid">Top 25 contributor</a> with 76 commits and 3 merged pull requests<br>
+      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor</a> with 76 commits and 3 merged pull requests<br>
       Built <a href="https://github.com/mermaid-js/mermaid/pull/6274">smart word wrapping</a>, <a href="https://github.com/mermaid-js/mermaid/pull/6475">dynamic data labels</a>, and <a href="https://github.com/mermaid-js/mermaid/pull/6225">customizable styling</a> serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a>.
     </td>
     <td>
@@ -104,7 +104,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🥕</td>
     <td>
-      <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - #2 contributor with 28 commits, 14,000+ lines added, and 25 merged PRs<br>
+      <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> -  <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor,</a> with 28 commits, 14,000+ lines added, and 25 merged PRs<br>
       Built comprehensive crop management system for a USDA organic farm using Node.js, PostgreSQL, Vue.js.
     </td>
     <td>
