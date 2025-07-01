@@ -117,7 +117,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🗂️</td>
     <td>
       <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete Portfolio</a></b> - Comprehensive documentation and technical analysis of all major contributions<br>
-      Detailed breakdown of merged PRs, impact metrics, code quality improvements, and collaboration patterns across multiple programming languages.
+      Detailed breakdown of merged PRs, impact metrics, and code quality improvements.
     </td>
     <td>
       <a href="https://github.com/Shahir-47/open-source-contributions">
