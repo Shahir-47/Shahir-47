@@ -105,7 +105,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🥕</td>
     <td>
       <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - #2 contributor with 28 commits, 14,000+ lines added, and 25 merged PRs<br>
-      Built comprehensive crop management system for 80-acre USDA organic farm using Node.js, PostgreSQL, Vue.js.
+      Built comprehensive crop management system for a USDA organic farm using Node.js, PostgreSQL, Vue.js.
     </td>
     <td>
       <a href="https://github.com/FarmData2/FarmData2">
