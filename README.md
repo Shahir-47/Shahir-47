@@ -93,11 +93,11 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🧜‍♂️</td>
     <td>
       <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://npmtrends.com/mermaid">Top 25 contributor</a> with 76 commits and 3 merged pull requests<br>
-      Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">smart word wrapping</a>, <a href="https://github.com/mermaid-js/mermaid/pull/6475">dynamic data labels</a>, and <a href="https://github.com/mermaid-js/mermaid/pull/6225">customizable styling</a> serving 1.2M+ weekly downloads.
+      Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">smart word wrapping</a>, <a href="https://github.com/mermaid-js/mermaid/pull/6475">dynamic data labels</a>, and <a href="https://github.com/mermaid-js/mermaid/pull/6225">customizable styling</a> serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a>.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
-        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="21" />
+        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="11" />
       </a>
     </td>
   </tr>
