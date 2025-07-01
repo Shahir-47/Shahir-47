@@ -62,7 +62,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🛠️</td>
     <td>
-      <strong>Systems & Tools:</strong> Built <a href="https://github.com/Shahir-47/PandOS">custom OS kernel</a> with virtual memory management, <a href="https://github.com/Shahir-47/bittorrent-client-js">P2P BitTorrent client</a>, and enterprise migration tools.<br>
+      <strong>Systems & Tools:</strong> Built <a href="https://github.com/Shahir-47/PandOS">OS kernel</a> with virtual memory management, <a href="https://github.com/Shahir-47/bittorrent-client-js">P2P BitTorrent client</a>, and enterprise migration tools.<br>
       Proficient in system design, protocol implementation, and performance optimization across different technology stacks.
     </td>
   </tr>
