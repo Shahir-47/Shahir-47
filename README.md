@@ -280,7 +280,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>📚</td>
     <td>
       <b>Teaching Assistant @ Dickinson College</b> <i>(Sep 2022 - May 2025)</i><br>
-      Mentored 25+ students in Python and Java programming. Improved student exam performance by 15% through personalized code reviews and targeted sessions.
+      Mentored 40+ students in Python and Java programming. Improved student exam performance by 15% through personalized code reviews and targeted sessions.
     </td>
   </tr>
 </table>
