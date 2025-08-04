@@ -49,7 +49,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🎓</td>
     <td>
       <strong>Fresh Graduate:</strong> Bachelor of Science in Computer Science & Mathematics from Dickinson College (May 2025, GPA: 3.52).<br>
-      Recognized with The 1783 Scholarship, Dean's List honors, and Pi Mu Epsilon National Mathematics Honor Society membership.
+      Recognized with The 1783 Scholarship, Dean's List honors, and Pi Mu Epsilon National Mathematics Honor Society.
     </td>
   </tr>
   <tr>
