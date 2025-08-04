@@ -251,14 +251,14 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🛒</td>
     <td>
-      <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
+      <b>Software Engineer (Part-time) @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
       Architecting a vendor management platform and full-stack grocery marketplace with Next.js, TypeScript, Firebase. Implemented Stripe split payouts, Identity verification, real-time order tracking, and inventory management.
     </td>
   </tr>
   <tr>
     <td>🌾</td>
     <td>
-      <b>Software Engineer @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
+      <b>Software Engineer Intern @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
       Built scalable crop management system for USDA organic farms. Promoted from Intern to Software Engineer based on performance and impact.
     </td>
   </tr>
@@ -272,7 +272,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🏗️</td>
     <td>
-      <b>Software Engineer @ 84 Lumber (Volunteer)</b> <i>(Sep 2023 - Jan 2024)</i><br>
+      <b>Software Engineer (Volunteer) @ 84 Lumber (Volunteer)</b> <i>(Sep 2023 - Jan 2024)</i><br>
       Led NLP-powered code migration pipeline using ANTLR, converting 10K+ lines of legacy CBASIC to modern languages for a $9B company modernization initiative.
     </td>
   </tr>
