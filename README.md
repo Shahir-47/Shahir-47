@@ -107,9 +107,8 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🥕</td>
     <td>
       <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor</a> with 28 commits, 14,000+ lines added, and 25 merged PRs<br><br>
-      • Built comprehensive crop management system for 80-acre USDA-certified organic farm<br>
-      • Developed RESTful APIs with Node.js and PostgreSQL for selective crop termination across 20+ beds<br>
-      • Created dynamic frontend forms with Vue.js and Vuex, increasing test coverage from 50% to 80%<br><br>
+      • Contributed to the core FarmData2 codebase at Dickinson College, collaborating directly with 12+ organic farmers to
+develop 15+ real-time crop management features that support daily farm operations and USDA certification requirements.<br>
       <strong>Impact:</strong> Promoted from Intern to Software Engineer; reduced form rendering latency by 25%, saving farm staff 3+ hours weekly.
     </td>
     <td>
