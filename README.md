@@ -41,7 +41,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🚀</td>
     <td>
-      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting full-stack grocery marketplace platform with Next.js, TypeScript, and Firebase.<br>
+      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting vendor management and full-stack grocery marketplace platform.<br>
       Building real-time inventory management, Stripe payment systems, and Google Maps integration serving 30+ active users.
     </td>
   </tr>
