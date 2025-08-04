@@ -95,7 +95,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
       • Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">production-grade text wrapping using Knuth-Plass algorithm</a><br>
       • Built <a href="https://github.com/mermaid-js/mermaid/pull/6475">auto-scaling algorithm for XY chart data labels with D3.js</a><br>
       • Developed <a href="https://github.com/mermaid-js/mermaid/pull/6225">YAML-based configuration system for customizable styling</a><br><br>
-      <strong>Impact:</strong> Serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a> and enhancing diagram readability across GitHub, Notion, and enterprise platforms.
+      <strong>Impact:</strong> Serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a> and enhancing diagram readability across GitHub, Notion, etc.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
