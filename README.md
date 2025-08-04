@@ -252,7 +252,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🛒</td>
     <td>
       <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
-      Architecting full-stack grocery marketplace with Next.js, TypeScript, Firebase. Implemented Stripe split payouts, Identity verification, and real-time order tracking serving 30+ users.
+      Architecting a vendor management platform and full-stack grocery marketplace with Next.js, TypeScript, Firebase. Implemented Stripe split payouts, Identity verification, real-time order tracking, and inventory management.
     </td>
   </tr>
   <tr>
