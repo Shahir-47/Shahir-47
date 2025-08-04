@@ -109,7 +109,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
       <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor</a> with 28 commits, 14,000+ lines added, and 25 merged PRs<br><br>
       • Developed a crop tracking system using Node.js, PostgreSQL, and Vue.js with Cypress test suites<br>
       • Integrated 18+ farmOS API endpoints to automate logging workflows and refactored 22 Vue components<br><br>
-      <strong>Impact:</strong> Achieved 80+ test coverage, reduced form rendering latency by 60%, and saving farm staff 12+ hours weekly.
+      <strong>Impact:</strong> Achieved 80+ test coverage, reduced form rendering latency by 60%, and saved farm staff 12+ hours weekly.
     </td>
     <td>
       <a href="https://github.com/FarmData2/FarmData2">
