@@ -120,8 +120,8 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🗂️</td>
     <td>
-      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b> - Comprehensive documentation showcasing technical contributions and impact metrics<br><br>
-      Detailed analysis of merged PRs, code quality improvements, and collaboration across major open source projects.
+      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b> - Documentation showcasing technical contributions and impact metrics<br><br>
+      Detailed analysis of merged PRs, code improvements, and collaboration across major open source projects.
     </td>
     <td>
       <a href="https://github.com/Shahir-47/open-source-contributions">
