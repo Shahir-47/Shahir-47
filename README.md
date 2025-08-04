@@ -259,7 +259,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🌾</td>
     <td>
       <b>Software Engineer @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
-      Built scalable crop management system for 80-acre USDA organic farm. Promoted from Intern to Software Engineer based on performance and impact.
+      Built scalable crop management system for USDA organic farms. Promoted from Intern to Software Engineer based on performance and impact.
     </td>
   </tr>
   <tr>
@@ -300,14 +300,14 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🛒</td>
     <td>
       <b><a href="https://www.sarvabazaar.com">Sarva Bazaar</a></b> | <a href="https://github.com/Shahir-47/Sarva-template">Repository</a><br>
-      Production grocery marketplace platform using Next.js, TypeScript, and Firebase with Stripe split payouts, Express accounts, real-time inventory management, and Google Maps delivery tracking serving 30+ active users.
+      Production inventory management and grocery marketplace platform using Next.js, TypeScript, and Firebase with Stripe split payouts, Express accounts, real-time inventory management, and Google Maps delivery tracking.
     </td>
   </tr>
   <tr>
     <td>🥕</td>
     <td>
       <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b><br>
-      Enterprise-grade crop management system for USDA-certified organic farms using Node.js, PostgreSQL, Vue.js. Automated record-keeping workflows, improved test coverage to 80%, and reduced form latency by 25%.
+      Enterprise-grade crop management system for USDA-certified organic farms using Node.js, PostgreSQL, Vue.js. Automated record-keeping workflows, improved test coverage to 80%, and reduced form latency by 60%.
     </td>
   </tr>
   <tr>
