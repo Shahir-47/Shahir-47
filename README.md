@@ -341,7 +341,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🖥️</td>
     <td>
-      <b><a href="https://gitshare.me/repo/6b7c1429-cd00-4bf9-b1b3-264596607faa">PandOS</a></b><br>
+      <b><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/">PandOS</a></b><br>
       Complete custom operating system kernel implemented in C for uMPS3 RISC emulator featuring time-sharing, multiprogramming, TLB-based virtual memory management, and comprehensive system call interfaces.
     </td>
   </tr>
