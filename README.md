@@ -24,6 +24,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 <div align="center">
 
 ## 👨 &nbsp;About me
+
 [![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-15AABF?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
 [![Open Source Badge](https://img.shields.io/badge/-See%20Open%20Source%20Contributions-7952B3?style=flat&logo=github&logoColor=white)](https://github.com/Shahir-47/open-source-contributions "See My Open Source Contributions")
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
@@ -42,7 +43,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>🚀</td>
     <td>
       <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting vendor management and full-stack grocery marketplace platform.<br>
-      Building real-time inventory management, order tracking, Stripe payment systems and customizable analytics reports.
+      Building AI assistants with RAG, batch inventory management with voice input, Stripe payment systems, and real-time order tracking.
     </td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>💻</td>
     <td>
-      <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Node.js, Express, TypeScript, PostgreSQL, MongoDB, AWS, Firebase.
+      <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Next.js, Node.js, Express, TypeScript, PostgreSQL, MongoDB, AWS, GCP, Firebase.
     </td>
   </tr>
   <tr>
@@ -181,6 +182,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO">
         <img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs">
         <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
@@ -200,6 +202,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
       <td><strong>Cloud & Infrastructure</strong></td>
       <td>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
@@ -251,15 +254,15 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🛒</td>
     <td>
-      <b>Software Engineer (Part-time) @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
-      Architecting a vendor management platform and full-stack grocery marketplace with Next.js, TypeScript, Firebase. Implemented Stripe split payouts, Identity verification, real-time order tracking, and inventory management.
+      <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
+      Architecting a vendor management platform and full-stack grocery marketplace with Next.js, TypeScript, Firebase. Built AI assistants with RAG, batch inventory management with voice input via Whisper, Stripe Connect split payouts with Identity verification, and real-time order tracking.
     </td>
   </tr>
   <tr>
     <td>🌾</td>
     <td>
       <b>Software Engineer Intern @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
-      Built scalable crop management system for USDA organic farms. Promoted from Intern to Software Engineer based on performance and impact.
+      Built scalable crop management system for USDA organic farms. Developed full-stack features with Node.js, PostgreSQL, and Vue.js with 80%+ Cypress test coverage.
     </td>
   </tr>
   <tr>
@@ -272,8 +275,8 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
   <tr>
     <td>🏗️</td>
     <td>
-      <b>Software Engineer (Volunteer) @ 84 Lumber (Volunteer)</b> <i>(Sep 2023 - Jan 2024)</i><br>
-      Led NLP-powered code migration pipeline using ANTLR, converting 10K+ lines of legacy CBASIC to modern languages for a $9B company modernization initiative.
+      <b>Software Engineer (Volunteer) @ 84 Lumber</b> <i>(Sep 2023 - Jan 2024)</i><br>
+      Contributed to an ANTLR-based code migration pipeline converting 10K+ lines of legacy CBASIC to Python and Java for a $9B company modernization initiative.
     </td>
   </tr>
   <tr>
@@ -297,17 +300,17 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 
 <table align="center">
   <tr>
-    <td>🛒</td>
+    <td>🗺️</td>
     <td>
-      <b><a href="https://www.sarvabazaar.com">Sarva Bazaar</a></b> | <a href="https://github.com/Shahir-47/Sarva-template">Repository</a><br>
-      Production inventory management and grocery marketplace platform using Next.js, TypeScript, and Firebase with Stripe split payouts, Express accounts, real-time inventory management, and Google Maps delivery tracking.
+      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a><br>
+      AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API, mapped to zones, and stored in AWS Databricks.
     </td>
   </tr>
   <tr>
-    <td>🥕</td>
+    <td>🎵</td>
     <td>
-      <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b><br>
-      Enterprise-grade crop management system for USDA-certified organic farms using Node.js, PostgreSQL, Vue.js. Automated record-keeping workflows, improved test coverage to 80%, and reduced form latency by 60%.
+      <b><a href="https://peer-to-playlist.onrender.com">Peer-to-Playlist</a></b> | <a href="https://github.com/Shahir-47/peer-to-playlist">Repository</a><br>
+      Full-stack social music platform using React, Node.js, MongoDB, and Socket.IO with weighted scoring algorithms for intelligent Spotify-based user matching. Built real-time messaging handling 500+ concurrent connections with file sharing via AWS S3 and Cloudinary CDN.
     </td>
   </tr>
   <tr>
@@ -315,20 +318,6 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
     <td>
       <b><a href="https://github.com/Shahir-47/open-source-contributions">Open Source Contributions Portfolio</a></b><br>
       Comprehensive documentation showcasing technical contributions to major projects including <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2/FarmData2">FarmData2</a> with detailed impact analysis and collaboration metrics.
-    </td>
-  </tr>
-  <tr>
-    <td>🎵</td>
-    <td>
-      <b><a href="https://peer-to-playlist.onrender.com">Peer-to-Playlist</a></b> | <a href="https://github.com/Shahir-47/peer-to-playlist">Repository</a><br>
-      Advanced social music platform using React, Node.js, MongoDB, and Socket.IO with sophisticated weighted scoring algorithms for intelligent Spotify-based user matching and real-time multimedia messaging.
-    </td>
-  </tr>
-  <tr>
-    <td>🗺️</td>
-    <td>
-      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a><br>
-      AI-powered navigation application analyzing real-time crime data to provide enhanced safety routing with interactive high-risk zone overlays and dynamic route optimization algorithms.
     </td>
   </tr>
   <tr>
@@ -393,6 +382,7 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 <div align="center">
 
 ## 📊 &nbsp;GitHub Stats
+
 <img align="center" src="https://github-readme-stats-2cpj.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=00000000" alt="Shahir's Github Stats">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir-47&layout=compact&hide_border=true&card_width=495&title_color=7A7ADB&text_color=D3D3D3&bg_color=00000000" alt="Shahir's Top Languages">
@@ -402,7 +392,9 @@ or <a href="mailto:shahirahmed.dev@gmail.com"><b>email</b></a> me.
 <br>
 
 ## 😉 &nbsp;Random dev joke for you!
+
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
 ---
 
 <i>Follow me around the web:</i><br>
