@@ -383,11 +383,15 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 
 ## 📊 &nbsp;GitHub Stats
 
-<img align="center" src="https://github-readme-stats-2cpj.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=00000000" alt="Shahir's Github Stats">
+<img align="center"
+  src="https://github-stats-alpha-tawny.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=00000000"
+  alt="Shahir's Github Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir-47&layout=compact&hide_border=true&card_width=495&title_color=7A7ADB&text_color=D3D3D3&bg_color=00000000" alt="Shahir's Top Languages">
+<img align="center"
+  src="https://github-stats-alpha-tawny.vercel.app/api/top-langs/?username=Shahir-47&layout=compact&hide_border=true&card_width=495&title_color=7A7ADB&text_color=D3D3D3&bg_color=00000000"
+  alt="Shahir's Top Languages" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahir-47&theme=default&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-steel-eight-67.vercel.app/?user=Shahir-47&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)
 
 <br>
 
