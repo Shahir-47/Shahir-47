@@ -309,10 +309,10 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🎵</td>
     <td>
-      <b><a href="https://peer-to-playlist.onrender.com">Peer-to-Playlist</a></b> | <a href="https://github.com/Shahir-47/peer-to-playlist">Repository</a><br>
-      Full-stack social music platform using React, Node.js, MongoDB, and Socket.IO with weighted scoring algorithms for intelligent Spotify-based user matching. Built real-time messaging handling 500+ concurrent connections with file sharing via AWS S3 and Cloudinary CDN.
+      <b><a href="https://queue-up.onrender.com">Queue Up</a></b> | <a href="https://github.com/Shahir-47/Queue-Up">Repository</a><br>
+      Music-based social platform connecting people through shared Spotify taste. Features weighted compatibility scoring from top artists/tracks, real-time WebSocket messaging with typing indicators, swipe-based matching, and file sharing via AWS S3. Built with React 19, Spring Boot 4, PostgreSQL, and deployed as a single JAR artifact.
     </td>
-  </tr>
+</tr>
   <tr>
     <td>🗂️</td>
     <td>
