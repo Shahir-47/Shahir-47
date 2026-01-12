@@ -307,11 +307,12 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     </td>
   </tr>
   <tr>
-    <td>🎵</td>
-    <td>
-      <b><a href="https://queue-up.onrender.com">Queue Up</a></b> | <a href="https://github.com/Shahir-47/Queue-Up">Repository</a><br>
-      Music-based social platform connecting people through shared Spotify taste. Features weighted compatibility scoring from top artists/tracks, real-time WebSocket messaging with typing indicators, swipe-based matching, and file sharing via AWS S3. Built with React 19, Spring Boot 4, PostgreSQL, and deployed as a single JAR artifact.
-    </td>
+  <td>🎵</td>
+  <td>
+    <b><a href="https://queue-up.onrender.com">Queue Up</a></b> | <a href="https://github.com/Shahir-47/Queue-Up">Repository</a><br>
+Music-based social platform that matches users using Spotify data and ranks profiles by a weighted compatibility score (top artists, top tracks, saved tracks, followed artists), with real-time chat via WebSockets.
+
+  </td>
 </tr>
   <tr>
     <td>🗂️</td>
