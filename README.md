@@ -295,7 +295,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🗺️</td>
     <td>
-      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a><br>
+      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a>  | <a href="https://albatross-hack.netlify.app/map">Live Demo</a> <br>
       AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API, mapped to zones, and stored in AWS Databricks.
     </td>
   </tr>
@@ -327,7 +327,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🩺</td>
     <td>
-      <b><a href="https://sweet-friend.vercel.app/app/dashboard">SweetFriend</a></b> | <a href="https://github.com/dmicz/SweetFriend">Repository</a> | <a href="https://devpost.com/software/sweetfriend">Devpost</a><br>
+      <b><a href="https://sweet-friend.vercel.app/app/dashboard">SweetFriend</a></b> | <a href="https://github.com/dmicz/SweetFriend">Repository</a> | <a href="https://devpost.com/software/sweetfriend">Devpost</a> | <a href="https://sweet-friend.vercel.app">Live Demo</a><br>
       Comprehensive diabetes management web application featuring seamless real-time Dexcom integration, advanced AI meal recognition capabilities, and personalized health insights with data visualization.
     </td>
   </tr>
