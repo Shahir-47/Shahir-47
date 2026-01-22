@@ -29,7 +29,6 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 [![Open Source Badge](https://img.shields.io/badge/-See%20Open%20Source%20Contributions-7952B3?style=flat&logo=github&logoColor=white)](https://github.com/Shahir-47/open-source-contributions "See My Open Source Contributions")
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
 [![Devpost Badge](https://img.shields.io/badge/-Check%20out%20Devpost-0096C7?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Shahir-47 "See My Devpost Projects")
-[![Blogspot Badge](https://img.shields.io/badge/-Read%20My%20Blogspot-FF9800?style=flat&logo=blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blog")
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahir@shahirahmed.com "Send an Email")
 
 </div><br>
@@ -64,12 +63,6 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>💻</td>
     <td>
       <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Next.js, Node.js, Express, TypeScript, PostgreSQL, MongoDB, AWS, GCP, Firebase.
-    </td>
-  </tr>
-  <tr>
-    <td>✍️</td>
-    <td>
-      Read my technical insights and development journey on my <a href="https://shahir-47.blogspot.com/">blog</a>
     </td>
   </tr>
   <tr>
@@ -417,7 +410,6 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahir47/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shahir@shahirahmed.com "Connect via Email")
 [![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=Devpost&logoColor=white)](https://devpost.com/Shahir-47 "Visit My Devpost")
-[![Blogspot Badge](https://img.shields.io/badge/-Blogspot-FF5722?style=flat&logo=Blogger&logoColor=white)](https://shahir-47.blogspot.com/ "Read My Blogspot")
 [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Portfolio")
 
 <br>
