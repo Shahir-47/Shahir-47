@@ -306,12 +306,22 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
       AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API, mapped to zones, and stored in AWS Databricks.
     </td>
   </tr>
-  <tr>
+<tr>
   <td>🎵</td>
   <td>
-    <b><a href="https://queue-up.onrender.com">Queue Up</a></b> | <a href="https://github.com/Shahir-47/Queue-Up">Repository</a><br>
-Music-based social platform that matches users using Spotify data and ranks profiles by a weighted compatibility score (top artists, top tracks, saved tracks, followed artists), with real-time chat via WebSockets.
-
+    <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
+    <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
+    <a href="https://queue-up.onrender.com">Live Demo</a><br>
+    Music-based social platform that matches users using Spotify data and ranks profiles by a weighted compatibility score (top artists, top tracks, saved tracks, followed artists). Real-time chat via WebSockets with JWT auth in HTTP-only cookies, Cloudinary avatars, and S3 attachments.
+  </td>
+</tr>
+<tr>
+  <td>✅</td>
+  <td>
+    <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
+    <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
+    <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
+    Task management with external verification. Creators submit proof, verifiers approve or reject, and missed deadlines automatically expose hidden penalties via email. Built with Spring Boot, React, PostgreSQL, WebSockets, AWS S3 presigned uploads, and Resend for transactional email.
   </td>
 </tr>
   <tr>
