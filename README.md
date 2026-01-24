@@ -62,7 +62,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>💻</td>
     <td>
-      <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Next.js, Node.js, Express, TypeScript, PostgreSQL, MongoDB, AWS, GCP, Firebase.
+      <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Next.js, Node.js, Express, TypeScript, Spring Boot, PostgreSQL, MongoDB, AWS, GCP, Firebase.
     </td>
   </tr>
   <tr>
