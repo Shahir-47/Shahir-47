@@ -41,8 +41,8 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🚀</td>
     <td>
-      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting vendor management and full-stack grocery marketplace platform.<br>
-      Building AI assistants with RAG, batch inventory management with voice input, Stripe payment systems, and real-time order tracking.
+      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting a serverless vendor platform maintaining 99.9% uptime.<br>
+      Engineered AI pipelines reducing query latency by 50% and logistics engines cutting chargeback fraud by 85%.
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🌟</td>
     <td>
-      <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a>, and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.<br>
+      <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> serving <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a>, and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.<br>
       Implemented production-grade algorithms, enhanced diagram systems, and built comprehensive farm management tools.
     </td>
   </tr>
@@ -89,7 +89,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
       • Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">production-grade text wrapping using Knuth-Plass algorithm</a><br>
       • Built <a href="https://github.com/mermaid-js/mermaid/pull/6475">auto-scaling algorithm for XY chart data labels with D3.js</a><br>
       • Developed <a href="https://github.com/mermaid-js/mermaid/pull/6225">YAML-based configuration system for customizable styling</a><br><br>
-      <strong>Impact:</strong> Serving <a href="https://npmtrends.com/mermaid">1.2M+ weekly downloads</a> and enhancing diagram readability across GitHub, Notion, etc.
+      <strong>Impact:</strong> Serving <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a> and enhancing diagram readability across GitHub, Notion, etc.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
@@ -248,7 +248,11 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🛒</td>
     <td>
       <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
-      Architecting a vendor management platform and full-stack grocery marketplace with Next.js, TypeScript, Firebase. Built AI assistants with RAG, batch inventory management with voice input via Whisper, Stripe Connect split payouts with Identity verification, and real-time order tracking.
+      Architecting a scalable vendor management platform using Next.js, TypeScript, and Firebase.
+      <ul>
+        <li><b>Performance:</b> Achieved 99.9% uptime and engineered an AI pipeline reducing query latency by 50%.</li>
+        <li><b>Innovation:</b> Developed voice-enabled batch inventory (supporting 90+ languages) and a logistics engine reducing chargeback fraud by 85%.</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -262,7 +266,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🧜‍♂️</td>
     <td>
       <b>Open Source Contributor @ <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - April 2025)</i><br>
-      Enhanced diagram systems with production-grade algorithms and D3.js visualizations. Achieved Top 25 contributor status among 600+ contributors.
+      Enhanced diagram systems with production-grade algorithms. Top 25 contributor among 600+ devs for a library with 1.4M+ weekly downloads.
     </td>
   </tr>
   <tr>
@@ -296,7 +300,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🗺️</td>
     <td>
       <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a>  | <a href="https://albatross-hack.netlify.app/map">Live Demo</a> <br>
-      AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API, mapped to zones, and stored in AWS Databricks.
+      AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API.
     </td>
   </tr>
 <tr>
@@ -305,7 +309,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
     <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
     <a href="https://queue-up.onrender.com">Live Demo</a><br>
-    Music-based social platform that matches users using Spotify data and ranks profiles by a weighted compatibility score (top artists, top tracks, saved tracks, followed artists). Real-time chat via WebSockets with JWT auth in HTTP-only cookies, Cloudinary avatars, and S3 attachments.
+    Social matching platform utilizing JPA/Hibernate to optimize SQL queries against PostgreSQL for compatibility ranking. Features real-time WebSocket chat, Docker containerization, and secure S3 media storage.
   </td>
 </tr>
 <tr>
@@ -314,7 +318,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
     <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
     <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
-    Task management with external verification. Creators submit proof, verifiers approve or reject, and missed deadlines automatically expose hidden penalties via email. Built with Spring Boot, React, PostgreSQL, WebSockets, AWS S3 presigned uploads, and Resend for transactional email.
+    Accountability platform with a deadline penalty system that automatically unlocks hidden consequences. Architected with Spring Boot, React, and AWS S3 presigned uploads for high-concurrency event handling.
   </td>
 </tr>
   <tr>
@@ -414,6 +418,6 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 
 <br>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
+[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
 
 </div>
