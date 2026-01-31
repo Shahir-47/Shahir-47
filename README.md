@@ -35,34 +35,34 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 
 <div align="center">
 
-👋 Hi, I'm **Shahir Ahmed**, a recent Computer Science & Mathematics graduate (May 2025) turned Software Engineer who builds scalable web applications and contributes to open source projects serving millions of developers. I specialize in full-stack development with modern technologies and have a passion for creating impactful software solutions.<br><br>
+👋 Hi, I'm **Shahir Ahmed**, a Software Engineer and Computer Science graduate (May 2025) who builds scalable full-stack applications and contributes to open source tools used by millions. I specialize in optimizing performance, automating complex workflows, and building impactful user experiences.<br><br>
 
 <table align="center">
   <tr>
     <td>🚀</td>
     <td>
-      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, architecting a serverless vendor platform maintaining 99.9% uptime.<br>
-      Engineered AI pipelines reducing query latency by 50% and logistics engines cutting chargeback fraud by 85%.
+      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>.<br>
+      Architecting serverless microservices and AI pipelines that power a vendor management platform and grocery marketplace.
     </td>
   </tr>
   <tr>
     <td>🎓</td>
     <td>
-      <strong>Fresh Graduate:</strong> Bachelor of Science in Computer Science & Mathematics from Dickinson College (May 2025, GPA: 3.52).<br>
+      <strong>Alumni:</strong> Bachelor of Science in Computer Science & Mathematics from Dickinson College (May 2025, GPA: 3.52).<br>
       Recognized with The 1783 Scholarship, Dean's List honors, and Pi Mu Epsilon National Mathematics Honor Society.
     </td>
   </tr>
   <tr>
     <td>🌟</td>
     <td>
-      <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> serving <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a>, and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.<br>
-      Implemented production-grade algorithms, enhanced diagram systems, and built comprehensive farm management tools.
+      <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> (1.4M+ weekly downloads) and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.<br>
+      Shipped algorithms and features now powering diagrams for millions of users across GitHub, Notion, and VS Code.
     </td>
   </tr>
   <tr>
     <td>💻</td>
     <td>
-      <strong>Technical Expertise:</strong> Full-stack development with React, Vue.js, Next.js, Node.js, Express, TypeScript, Spring Boot, PostgreSQL, MongoDB, AWS, GCP, Firebase.
+      <strong>Technical Expertise:</strong> Java, Spring Boot, React, Next.js, TypeScript, Python, PostgreSQL, AWS, Docker, Firebase.
     </td>
   </tr>
   <tr>
@@ -85,11 +85,11 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🧜‍♂️</td>
     <td>
-      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor</a> among 600+ contributors with significant algorithmic improvements<br><br>
+      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor</a> among 600+ contributors<br><br>
       • Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">production-grade text wrapping using Knuth-Plass algorithm</a><br>
       • Built <a href="https://github.com/mermaid-js/mermaid/pull/6475">auto-scaling algorithm for XY chart data labels with D3.js</a><br>
       • Developed <a href="https://github.com/mermaid-js/mermaid/pull/6225">YAML-based configuration system for customizable styling</a><br><br>
-      <strong>Impact:</strong> Serving <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a> and enhancing diagram readability across GitHub, Notion, etc.
+      <strong>Impact:</strong> Features deployed to <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a>, enhancing diagrams across GitHub & VS Code.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
@@ -100,10 +100,10 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🥕</td>
     <td>
-      <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor</a> with 28 commits, 14,000+ lines added, and 25 merged PRs<br><br>
-      • Developed a crop tracking system using Node.js, PostgreSQL, and Vue.js with Cypress test suites<br>
-      • Integrated 18+ farmOS API endpoints to automate logging workflows and refactored 22 Vue components<br><br>
-      <strong>Impact:</strong> Reduced form rendering latency by 60% and saved farm staff 12+ hours weekly.
+      <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor</a> (28 commits, 14k+ lines)<br><br>
+      • Engineered a concurrent-safe crop tracking system using Node.js and PostgreSQL aligned with USDA audit standards<br>
+      • Refactored 22 Vue components to reduce form rendering latency by 60%<br><br>
+      <strong>Impact:</strong> Automated workflows that saved farm staff over 12 hours of manual labor per week.
     </td>
     <td>
       <a href="https://github.com/FarmData2/FarmData2">
@@ -114,7 +114,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🗂️</td>
     <td>
-      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b> - Documentation showcasing technical contributions and impact metrics<br><br>
+      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b> - Impact Documentation<br><br>
       Detailed analysis of merged PRs, code improvements, and collaboration across major open source projects.
     </td>
     <td>
@@ -148,24 +148,19 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
       </td>
     </tr>
     <tr>
       <td><strong>Frontend Frameworks</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
       </td>
     </tr>
     <tr>
@@ -175,10 +170,8 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO">
         <img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs">
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
       </td>
     </tr>
     <tr>
@@ -187,29 +180,17 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3">
       </td>
     </tr>
     <tr>
-      <td><strong>Cloud & Infrastructure</strong></td>
+      <td><strong>Cloud & DevOps</strong></td>
       <td>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Payment & External APIs</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-        <img src="https://img.shields.io/badge/Spotify%20API-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify API">
-        <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps">
-        <img src="https://img.shields.io/badge/farmOS%20API-8BC34A?style=for-the-badge&logo=api&logoColor=white" alt="farmOS API">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       </td>
     </tr>
     <tr>
@@ -217,20 +198,8 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
       <td>
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
         <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
         <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
-        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Development Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/ANTLR-FF6B35?style=for-the-badge&logo=antlr&logoColor=white" alt="ANTLR">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-        <img src="https://img.shields.io/badge/Agile/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile/Scrum">
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
       </td>
     </tr>
   </tbody>
@@ -248,39 +217,33 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🛒</td>
     <td>
       <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
-      Architecting a scalable vendor management platform using Next.js, TypeScript, and Firebase.
-      <ul>
-        <li><b>Performance:</b> Achieved 99.9% uptime and engineered an AI pipeline reducing query latency by 50%.</li>
-        <li><b>Innovation:</b> Developed voice-enabled batch inventory (supporting 90+ languages) and a logistics engine reducing chargeback fraud by 85%.</li>
-      </ul>
+      • Architecting a vendor management platform (Next.js/TypeScript) maintaining <b>99.9% uptime</b> for secure authentication and catalog workflows.<br>
+      • Engineered a retrieval-backed AI pipeline reducing query latency by <b>50%</b> and product setup time by <b>80%</b>.<br>
+      • Implemented voice-enabled inventory (OpenAI Whisper) cutting manual labor by <b>60%</b>, and a Stripe payment engine reducing fraud by <b>85%</b>.
     </td>
   </tr>
   <tr>
     <td>🌾</td>
     <td>
       <b>Software Engineer Intern @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
-      Built scalable crop management system for USDA organic farms. Developed full-stack features with Node.js, PostgreSQL, and Vue.js with 80%+ Cypress test coverage.
+      • Built a concurrent-safe crop management system for USDA organic farms using Node.js and PostgreSQL.<br>
+      • Revamped the Vue.js frontend, refactoring 22 components to reduce form rendering latency by <b>60%</b>.<br>
+      • Integrated 18+ REST APIs and Cypress testing (80% coverage), saving staff <b>12+ hours</b> weekly.
     </td>
   </tr>
   <tr>
     <td>🧜‍♂️</td>
     <td>
       <b>Open Source Contributor @ <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - April 2025)</i><br>
-      Enhanced diagram systems with production-grade algorithms. Top 25 contributor among 600+ devs for a library with 1.4M+ weekly downloads.
+      • Achieved <b>Top 25</b> contributor status (among 600+) for a library with <b>1.4M+ weekly downloads</b>.<br>
+      • Merged PRs for text wrapping algorithms, auto-scaling data labels, and styling features impacting millions of users.
     </td>
   </tr>
   <tr>
     <td>🏗️</td>
     <td>
       <b>Software Engineer (Volunteer) @ 84 Lumber</b> <i>(Sep 2023 - Jan 2024)</i><br>
-      Contributed to an ANTLR-based code migration pipeline converting 10K+ lines of legacy CBASIC to Python and Java for a $9B company modernization initiative.
-    </td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td>
-      <b>Teaching Assistant @ Dickinson College</b> <i>(Sep 2022 - May 2025)</i><br>
-      Mentored 40+ students in Python and Java programming. Improved student exam performance by 15% through personalized code reviews and targeted sessions.
+      • Contributed to an ANTLR-based migration pipeline converting 10K+ lines of legacy CBASIC to Python/Java for a $9B company modernization.
     </td>
   </tr>
 </table>
@@ -296,20 +259,13 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 **Consider giving my work a :star: to show some :heart:**
 
 <table align="center">
-  <tr>
-    <td>🗺️</td>
-    <td>
-      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a>  | <a href="https://albatross-hack.netlify.app/map">Live Demo</a> <br>
-      AI-powered navigation app built with Vue.js that sends routes to Cloudflare Workers to check against high-crime zones and reroutes users based on their selected safety level. Geocoded 50K+ crime addresses using Google API.
-    </td>
-  </tr>
 <tr>
   <td>🎵</td>
   <td>
     <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
     <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
     <a href="https://queue-up.onrender.com">Live Demo</a><br>
-    Social matching platform utilizing JPA/Hibernate to optimize SQL queries against PostgreSQL for compatibility ranking. Features real-time WebSocket chat, Docker containerization, and secure S3 media storage.
+    Full-stack social matching platform integrating Spotify API. Engineered a Spring Boot backend utilizing JPA to optimize complex SQL queries for compatibility ranking. Secured media storage via AWS S3 and deployed using Docker.
   </td>
 </tr>
 <tr>
@@ -318,42 +274,35 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
     <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
     <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
-    Accountability platform with a deadline penalty system that automatically unlocks hidden consequences. Architected with Spring Boot, React, and AWS S3 presigned uploads for high-concurrency event handling.
+    Accountability platform with penalty enforcement. Architected using React/TypeScript and Spring Boot/Hibernate. Deployed a scalable Docker environment handling high-concurrency WebSocket events for real-time verification.
   </td>
 </tr>
+  <tr>
+    <td>🗺️</td>
+    <td>
+      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a>  | <a href="https://albatross-hack.netlify.app/map">Live Demo</a> <br>
+      AI-powered navigation app built with Vue.js. Geocoded 50K+ crime addresses using Google API, mapped to zones in AWS Databricks, and routed users via Cloudflare Workers for safety.
+    </td>
+  </tr>
   <tr>
     <td>🗂️</td>
     <td>
       <b><a href="https://github.com/Shahir-47/open-source-contributions">Open Source Contributions Portfolio</a></b><br>
-      Comprehensive documentation showcasing technical contributions to major projects including <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2/FarmData2">FarmData2</a> with detailed impact analysis and collaboration metrics.
+      Comprehensive documentation showcasing technical contributions to major projects including <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2/FarmData2">FarmData2</a>.
     </td>
   </tr>
   <tr>
     <td>🩺</td>
     <td>
       <b><a href="https://sweet-friend.vercel.app/app/dashboard">SweetFriend</a></b> | <a href="https://github.com/dmicz/SweetFriend">Repository</a> | <a href="https://devpost.com/software/sweetfriend">Devpost</a> | <a href="https://sweet-friend.vercel.app">Live Demo</a><br>
-      Comprehensive diabetes management web application featuring seamless real-time Dexcom integration, advanced AI meal recognition capabilities, and personalized health insights with data visualization.
+      Diabetes management web application featuring real-time Dexcom integration and AI meal recognition.
     </td>
   </tr>
   <tr>
     <td>🖥️</td>
     <td>
       <b><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/">PandOS</a></b><br>
-      Complete custom operating system kernel implemented in C for uMPS3 RISC emulator featuring time-sharing, multiprogramming, TLB-based virtual memory management, and comprehensive system call interfaces.
-    </td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td>
-      <b><a href="https://github.com/Shahir-47/bittorrent-client-js">BitTorrent Client JS</a></b><br>
-      Full-featured JavaScript BitTorrent client with complete protocol compliance, efficient peer discovery mechanisms, and optimized piece selection algorithms for magnet links and .torrent files.
-    </td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td>
-      <b><a href="https://github.com/Shahir-47/SpaceAccuracy">SpaceAccuracy</a></b><br>
-      Engaging 2D space shooter game developed in Lua featuring intelligent enemy AI systems, dynamic power-up mechanics, progressive difficulty scaling, and adaptive gameplay systems.
+      Complete custom operating system kernel in C featuring time-sharing, multiprogramming, TLB-based virtual memory management, and system call interfaces.
     </td>
   </tr>
 </table>
@@ -418,6 +367,6 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 
 <br>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
+[![Profile last updated](https://img.shields.io/github/last-commit/Shahir-47/Shahir-47?label=Last%20updated&style=flat)](https://github.com/Shahir-47/Shahir-47/commits)   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahir-47.Shahir-47)
 
 </div>
