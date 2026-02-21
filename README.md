@@ -35,34 +35,32 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
 
 <div align="center">
 
-👋 Hi, I'm **Shahir Ahmed**, a Software Engineer and Computer Science graduate (May 2025) who builds scalable full-stack applications and contributes to open source tools used by millions. I specialize in optimizing performance, automating complex workflows, and building impactful user experiences.<br><br>
+👋 Hi, I'm **Shahir Ahmed**, a Software Engineer and CS & Math graduate from Dickinson College (May 2025). I build full-stack apps with React, Next.js, TypeScript, Spring Boot, Python, and PostgreSQL, and I contribute to open source tools used by millions.<br><br>
 
 <table align="center">
   <tr>
     <td>🚀</td>
     <td>
-      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>.<br>
-      Architecting serverless microservices and AI pipelines that power a vendor management platform and grocery marketplace.
+      <strong>Current Role:</strong> Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, building AI-powered tools for South Asian grocery supply chains.
     </td>
   </tr>
   <tr>
     <td>🎓</td>
     <td>
-      <strong>Alumni:</strong> Bachelor of Science in Computer Science & Mathematics from Dickinson College (May 2025, GPA: 3.52).<br>
-      Recognized with The 1783 Scholarship, Dean's List honors, and Pi Mu Epsilon National Mathematics Honor Society.
+      <strong>Education:</strong> B.S. in Computer Science & Mathematics from Dickinson College (GPA: 3.52).<br>
+      <strong>Honors</strong>: Dean's List, Pi Mu Epsilon, The 1783 Scholarship.
     </td>
   </tr>
   <tr>
     <td>🌟</td>
     <td>
-      <strong>Open Source Impact:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> (1.4M+ weekly downloads) and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.<br>
-      Shipped algorithms and features now powering diagrams for millions of users across GitHub, Notion, and VS Code.
+      <strong>Open Source:</strong> <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor to Mermaid.js</a> (1.4M+ weekly downloads) and <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor to FarmData2</a>.
     </td>
   </tr>
   <tr>
     <td>💻</td>
     <td>
-      <strong>Technical Expertise:</strong> Java, Spring Boot, React, Next.js, TypeScript, Python, PostgreSQL, AWS, Docker, Firebase.
+      <strong>Tech:</strong> Java, Spring Boot, React, Next.js, TypeScript, Python, PostgreSQL, AWS, Docker, Firebase.
     </td>
   </tr>
   <tr>
@@ -86,10 +84,10 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🧜‍♂️</td>
     <td>
       <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> - <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">Top 25 contributor</a> among 600+ contributors<br><br>
-      • Implemented <a href="https://github.com/mermaid-js/mermaid/pull/6274">production-grade text wrapping using Knuth-Plass algorithm</a><br>
-      • Built <a href="https://github.com/mermaid-js/mermaid/pull/6475">auto-scaling algorithm for XY chart data labels with D3.js</a><br>
-      • Developed <a href="https://github.com/mermaid-js/mermaid/pull/6225">YAML-based configuration system for customizable styling</a><br><br>
-      <strong>Impact:</strong> Features deployed to <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a>, enhancing diagrams across GitHub & VS Code.
+      • <a href="https://github.com/mermaid-js/mermaid/pull/6274">Text wrapping using Knuth-Plass algorithm</a><br>
+      • <a href="https://github.com/mermaid-js/mermaid/pull/6475">Auto-scaling data labels for XY charts with D3.js</a><br>
+      • <a href="https://github.com/mermaid-js/mermaid/pull/6225">Customizable styling for Journey diagrams via YAML config</a><br><br>
+      Features shipped to <a href="https://npmtrends.com/mermaid">1.4M+ weekly downloads</a>, used across GitHub, VS Code, and Notion.
     </td>
     <td>
       <a href="https://github.com/mermaid-js/mermaid">
@@ -101,9 +99,8 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🥕</td>
     <td>
       <b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> - <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">#2 contributor</a> (28 commits, 14k+ lines)<br><br>
-      • Engineered a concurrent-safe crop tracking system using Node.js and PostgreSQL aligned with USDA audit standards<br>
-      • Refactored 22 Vue components to reduce form rendering latency by 60%<br><br>
-      <strong>Impact:</strong> Automated workflows that saved farm staff over 12 hours of manual labor per week.
+      • Refactored 22+ Vue.js components to Vuex, cutting form latency by 60%<br>
+      • Built 18+ Node.js REST APIs with PostgreSQL transaction rollbacks and 30+ Cypress tests<br>
     </td>
     <td>
       <a href="https://github.com/FarmData2/FarmData2">
@@ -114,8 +111,8 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🗂️</td>
     <td>
-      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b> - Impact Documentation<br><br>
-      Detailed analysis of merged PRs, code improvements, and collaboration across major open source projects.
+      <b><a href="https://github.com/Shahir-47/open-source-contributions">Complete OSS Portfolio</a></b><br><br>
+      Merged PRs, code stats, and contribution details for all major open source projects.
     </td>
     <td>
       <a href="https://github.com/Shahir-47/open-source-contributions">
@@ -169,6 +166,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO">
         <img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs">
@@ -217,33 +215,33 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <td>🛒</td>
     <td>
       <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Present)</i><br>
-      • Architecting a vendor management platform (Next.js/TypeScript) maintaining <b>99.9% uptime</b> for secure authentication and catalog workflows.<br>
-      • Engineered a retrieval-backed AI pipeline reducing query latency by <b>50%</b> and product setup time by <b>80%</b>.<br>
-      • Implemented voice-enabled inventory (OpenAI Whisper) cutting manual labor by <b>60%</b>, and a Stripe payment engine reducing fraud by <b>85%</b>.
+      • Cut p95 latency by <b>50%</b> with a Python RAG pipeline using vector similarity search<br>
+      • Reduced vendor inventory time by <b>60%</b> with a voice-based system using OpenAI Whisper (90+ languages)<br>
+      • Reduced chargeback fraud by adding Stripe Connect with identity verification<br>
+      • Built 4 GPT-powered AI assistants for order tracking, product search, and inventory management
     </td>
   </tr>
   <tr>
     <td>🌾</td>
     <td>
       <b>Software Engineer Intern @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
-      • Built a concurrent-safe crop management system for USDA organic farms using Node.js and PostgreSQL.<br>
-      • Revamped the Vue.js frontend, refactoring 22 components to reduce form rendering latency by <b>60%</b>.<br>
-      • Integrated 18+ REST APIs and Cypress testing (80% coverage), saving staff <b>12+ hours</b> weekly.
+      • Reduced form latency by <b>60%</b> by refactoring 22+ Vue.js components to Vuex<br>
+      • Automated farm workflows by building 18+ Node.js REST APIs with PostgreSQL rollbacks and 30+ Cypress tests
     </td>
   </tr>
   <tr>
     <td>🧜‍♂️</td>
     <td>
       <b>Open Source Contributor @ <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - April 2025)</i><br>
-      • Achieved <b>Top 25</b> contributor status (among 600+) for a library with <b>1.4M+ weekly downloads</b>.<br>
-      • Merged PRs for text wrapping algorithms, auto-scaling data labels, and styling features impacting millions of users.
+      • Ranked <b>#25</b> among 600+ contributors by shipping 3 merged PRs for a library serving <b>1.4M+ weekly downloads</b><br>
+      • Delivered features and bug fixes across 20+ diagram types in an 86K-star codebase used by GitHub, VS Code, and Notion
     </td>
   </tr>
   <tr>
     <td>🏗️</td>
     <td>
       <b>Software Engineer (Volunteer) @ 84 Lumber</b> <i>(Sep 2023 - Jan 2024)</i><br>
-      • Contributed to an ANTLR-based migration pipeline converting 10K+ lines of legacy CBASIC to Python/Java for a $9B company modernization.
+      • Built a legacy code transpilation pipeline using ANTLR to migrate 10K+ lines of CBASIC into Python and Java for a $9B company
     </td>
   </tr>
 </table>
@@ -265,7 +263,7 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
     <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
     <a href="https://queue-up.onrender.com">Live Demo</a><br>
-    Full-stack social matching platform integrating Spotify API. Engineered a Spring Boot backend utilizing JPA to optimize complex SQL queries for compatibility ranking. Secured media storage via AWS S3 and deployed using Docker.
+    Spotify-powered social app that matches users by listening habits and enables real-time chat. Built with Spring Boot, React, PostgreSQL, WebSockets, and Docker.
   </td>
 </tr>
 <tr>
@@ -274,35 +272,35 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
     <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
     <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
     <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
-    Accountability platform with penalty enforcement. Architected using React/TypeScript and Spring Boot/Hibernate. Deployed a scalable Docker environment handling high-concurrency WebSocket events for real-time verification.
+    Task accountability app with AES-encrypted stakes that auto-release to peers via email on missed deadlines. Built with Spring Boot, React, TypeScript, WebSockets, and Docker.
   </td>
 </tr>
   <tr>
     <td>🗺️</td>
     <td>
       <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a>  | <a href="https://albatross-hack.netlify.app/map">Live Demo</a> <br>
-      AI-powered navigation app built with Vue.js. Geocoded 50K+ crime addresses using Google API, mapped to zones in AWS Databricks, and routed users via Cloudflare Workers for safety.
+      AI navigation app that reroutes users around high-crime areas. Processed 50K+ crime addresses into zone density scores using Databricks and served route safety checks via Cloudflare Workers. Built at HackHarvard 2024.
     </td>
   </tr>
   <tr>
     <td>🗂️</td>
     <td>
       <b><a href="https://github.com/Shahir-47/open-source-contributions">Open Source Contributions Portfolio</a></b><br>
-      Comprehensive documentation showcasing technical contributions to major projects including <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2/FarmData2">FarmData2</a>.
+      Merged PRs, code stats, and contribution details for <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and <a href="https://github.com/FarmData2/FarmData2">FarmData2</a>.
     </td>
   </tr>
   <tr>
     <td>🩺</td>
     <td>
       <b><a href="https://sweet-friend.vercel.app/app/dashboard">SweetFriend</a></b> | <a href="https://github.com/dmicz/SweetFriend">Repository</a> | <a href="https://devpost.com/software/sweetfriend">Devpost</a> | <a href="https://sweet-friend.vercel.app">Live Demo</a><br>
-      Diabetes management web application featuring real-time Dexcom integration and AI meal recognition.
+      Diabetes management app with real-time Dexcom glucose monitoring, AI meal recognition, and Twilio SMS alerts. Built at PennApps 2024.
     </td>
   </tr>
   <tr>
     <td>🖥️</td>
     <td>
       <b><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/">PandOS</a></b><br>
-      Complete custom operating system kernel in C featuring time-sharing, multiprogramming, TLB-based virtual memory management, and system call interfaces.
+      Complete OS kernel in C with time-sharing, virtual memory, system calls, and interrupt handling.
     </td>
   </tr>
 </table>
@@ -319,15 +317,15 @@ or <a href="mailto:shahir@shahirahmed.com"><b>email</b></a> me.
   <tr>
     <td>🎓</td>
     <td>
-      <b>Bachelor of Science - Computer Science & Mathematics</b><br>
+      <b>B.S. in Computer Science & Mathematics</b><br>
       <i>Dickinson College (August 2021 - May 2025) | GPA: 3.52/4.00</i><br>
-      <strong>Honors:</strong> The 1783 Scholarship, Dean's List, Pi Mu Epsilon National Mathematics Honor Society
+      Honors: Dean's List, Pi Mu Epsilon, The 1783 Scholarship
     </td>
   </tr>
   <tr>
     <td>📜</td>
     <td>
-      <b>Certifications:</b> <a href="https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3">CS50's Introduction to Computer Science</a>, <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1945277d-7a1c-4899-981f-d28b4a0e68a7&">MATLAB Onramp</a><br>
+      <b>Certifications:</b> <a href="https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3">CS50x: Introduction to Computer Science</a>, <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1945277d-7a1c-4899-981f-d28b4a0e68a7&">MATLAB Onramp</a><br>
       <b>Languages:</b> English, Urdu, Hindi (Native/Bilingual proficiency)
     </td>
   </tr>
