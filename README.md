@@ -258,40 +258,49 @@ or <a href="mailto:shahir.a@outlook.com"><b>email</b></a> me.
 
 <table align="center">
   <tr>
-  <td>📸</td>
-  <td>
-    <b><a href="https://grab-pic.vercel.app">GrabPic</a></b> |
-    <a href="https://github.com/Shahir-47/Grab-Pic">Repository</a> |
-    <a href="https://grab-pic.vercel.app">Live Demo</a><br>
-   Event photo sharing app where hosts upload photos and share one link. Guests take a selfie to instantly find every photo they appear in using facial recognition. Built with Next.js, Spring Boot, Python, PostgreSQL, AWS, and Supabase.
-  </td>
-</tr>
+    <td>📸</td>
+    <td>
+      <b><a href="https://grab-pic.vercel.app">GrabPic</a></b> |
+      <a href="https://github.com/Shahir-47/Grab-Pic">Repository</a> |
+      <a href="https://grab-pic.vercel.app">Live Demo</a><br>
+      Event photo sharing app where hosts upload photos and share one link. Guests take a selfie to instantly find every photo they appear in using facial recognition. Built with Next.js, Spring Boot, Python, PostgreSQL, AWS, and Supabase.
+    </td>
+  </tr>
   <tr>
-  <td>📄</td>
-  <td>
-    <b><a href="https://github.com/Shahir-47/Paper-Pulse">PaperPulse</a></b> |
-    <a href="https://github.com/Shahir-47/Paper-Pulse">Repository</a><br>
-       Research platform that aggregates papers from major sources, ranks them with neural reranking, builds a knowledge graph, and answers questions using RAG. Built with Next.js, FastAPI, PostgreSQL, Neo4j, OpenAI, Cohere, and AWS.
-  </td>
-</tr>
-<tr>
-  <td>🎵</td>
-  <td>
-    <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
-    <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
-    <a href="https://queue-up.onrender.com">Live Demo</a><br>
-    Spotify-powered social app that matches users by listening habits and enables real-time chat. Built with Spring Boot, React, PostgreSQL, WebSockets, and Docker.
-  </td>
-</tr>
-<tr>
-  <td>✅</td>
-  <td>
-    <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
-    <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
-    <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
-    Task accountability app with AES-encrypted stakes that auto-release to peers via email on missed deadlines. Built with Spring Boot, React, TypeScript, WebSockets, and Docker.
-  </td>
-</tr>
+    <td>📄</td>
+    <td>
+      <b><a href="https://paper-pulse-nu.vercel.app">PaperPulse</a></b> |
+      <a href="https://github.com/Shahir-47/Paper-Pulse">Repository</a> |
+      <a href="https://paper-pulse-nu.vercel.app">Live Demo</a><br>
+      Research platform that aggregates papers from major sources, ranks them with neural reranking, builds a knowledge graph, and answers questions using RAG. Built with Next.js, FastAPI, PostgreSQL, Neo4j, OpenAI, Cohere, and AWS.
+    </td>
+  </tr>
+  <tr>
+    <td>🎵</td>
+    <td>
+      <b><a href="https://queue-up.onrender.com">Queue Up</a></b> |
+      <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
+      <a href="https://queue-up.onrender.com">Live Demo</a><br>
+      Spotify-powered social app that matches users by listening habits and enables real-time chat. Built with Spring Boot, React, PostgreSQL, WebSockets, and Docker.
+    </td>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td>
+      <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
+      <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
+      <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
+      Task accountability app with AES-encrypted stakes that auto-release to peers via email on missed deadlines. Built with Spring Boot, React, TypeScript, WebSockets, and Docker.
+    </td>
+  </tr>
+  <tr>
+    <td>🔗</td>
+    <td>
+      <b><a href="https://github.com/Shahir-47/bittorrent-client-js">BitTorrent Client</a></b> |
+      <a href="https://github.com/Shahir-47/bittorrent-client-js">Repository</a><br>
+      BitTorrent client that downloads files from .torrent files and magnet links. Implements the BitTorrent wire protocol with TCP peer connections, piece-level integrity checking, and the extension protocol for metadata exchange. Built with Node.js.
+    </td>
+  </tr>
   <tr>
     <td>🗺️</td>
     <td>
