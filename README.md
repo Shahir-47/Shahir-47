@@ -257,6 +257,23 @@ or <a href="mailto:shahir.a@outlook.com"><b>email</b></a> me.
 **Consider giving my work a :star: to show some :heart:**
 
 <table align="center">
+  <tr>
+  <td>📸</td>
+  <td>
+    <b><a href="https://grab-pic.vercel.app">GrabPic</a></b> |
+    <a href="https://github.com/Shahir-47/Grab-Pic">Repository</a> |
+    <a href="https://grab-pic.vercel.app">Live Demo</a><br>
+   Event photo sharing app where hosts upload photos and share one link. Guests take a selfie to instantly find every photo they appear in using facial recognition. Built with Next.js, Spring Boot, Python, PostgreSQL, AWS, and Supabase.
+  </td>
+</tr>
+  <tr>
+  <td>📄</td>
+  <td>
+    <b><a href="https://github.com/Shahir-47/Paper-Pulse">PaperPulse</a></b> |
+    <a href="https://github.com/Shahir-47/Paper-Pulse">Repository</a><br>
+        Academic research platform that aggregates papers from four major sources, ranks them with neural reranking, builds a knowledge graph, and answers questions using RAG. Built with Next.js, FastAPI, PostgreSQL, Neo4j, OpenAI, Cohere, and AWS.
+  </td>
+</tr>
 <tr>
   <td>🎵</td>
   <td>
