@@ -271,7 +271,7 @@ or <a href="mailto:shahir.a@outlook.com"><b>email</b></a> me.
   <td>
     <b><a href="https://github.com/Shahir-47/Paper-Pulse">PaperPulse</a></b> |
     <a href="https://github.com/Shahir-47/Paper-Pulse">Repository</a><br>
-        Research platform aggregating papers from four major sources, ranking them with neural reranking, building a knowledge graph, and answering questions via RAG. Built with Next.js, FastAPI, PostgreSQL, Neo4j, OpenAI, Cohere, and AWS.
+       Research platform that aggregates papers from major sources, ranks them with neural reranking, builds a knowledge graph, and answers questions using RAG. Built with Next.js, FastAPI, PostgreSQL, Neo4j, OpenAI, Cohere, and AWS.
   </td>
 </tr>
 <tr>
