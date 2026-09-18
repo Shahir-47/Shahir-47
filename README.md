@@ -15,15 +15,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/Shahir-47/Shahir-47/issues/new"><b>here</b></a><br>
 or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!</i>
  
 </div>
 
 <br>
 
 <div align="center">
-
-## 👨 &nbsp;About me
 
 [![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-15AABF?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
 [![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-34A853?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1APlXopNkSxXLLTHnxH-MBNT3GJKWq9Rp/view?usp=sharing "View My Resume")
@@ -32,353 +30,287 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 [![Devpost Badge](https://img.shields.io/badge/-Check%20out%20Devpost-0096C7?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Shahir-47 "See My Devpost Projects")
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahir.a@nyu.edu "Send an Email")
 
-</div><br>
-
-<div align="center">
-
-👋 Hi, I'm **Shahir Ahmed**, a software engineer working on my Master's in Computer Science at NYU. Most of what I build is full-stack, usually a Next.js or React frontend talking to a Spring Boot or FastAPI backend.<br><br>
-
-<table align="center">
-  <tr>
-    <td>🛒</td>
-    <td>
-      Most recently I was a software engineer at <a href="https://www.sarvabazaar.com">Sarva</a>, a startup for neighborhood grocery shops still keeping inventory on paper.
-    </td>
-  </tr>
-  <tr>
-    <td>🧜‍♂️</td>
-    <td>
-      I contribute to <a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a> and I'm <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">ranked 25th</a> out of 600+ contributors.
-    </td>
-  </tr>
-  <tr>
-    <td>🏠</td>
-    <td>
-      My newer projects run on a <a href="https://lab.shahirahmed.com">home server</a> I set up on an old gaming laptop.
-    </td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td>
-      Portfolio: <a href="https://shahirahmed.com/">shahirahmed.com</a> | Email: <a href="mailto:shahir.a@nyu.edu">shahir.a@nyu.edu</a> | Based in New York, NY
-    </td>
-  </tr>
-</table>
-
 </div>
 
-<br>
+## About me
 
-<div align="center">
+Hi, I'm **Shahir Ahmed**, a software engineer in New York working on my Master's in Computer Science at NYU. Before NYU I worked at [Sarva](https://www.sarvabazaar.com), a startup for neighborhood grocery shops still keeping inventory on paper.
 
-## 🌟 &nbsp;Open Source Contributions
+Most of what I build is full-stack, usually a Next.js or React frontend talking to a Spring Boot or FastAPI backend. My newer projects run on a [home server](https://lab.shahirahmed.com) I set up on an old gaming laptop, and I contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where I'm ranked 25th out of 600+ contributors.
 
-<table align="center">
-  <tr>
-    <td>🧜‍♂️</td>
-    <td>
-      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b><br><br>
-      Mermaid.js turns a few lines of text into flowcharts and diagrams. GitHub and Microsoft use it, and with <a href="https://npmtrends.com/mermaid">12M+ downloads a week</a>, every change has to get through CI and a maintainer's review. I've had 3 pull requests merged into its 200,000 line TypeScript codebase, all with Cypress tests, and they put me <a href="https://github.com/mermaid-js/mermaid/graphs/contributors">25th out of 600+ contributors</a>.<br><br>
-      • <a href="https://github.com/mermaid-js/mermaid/pull/6475">A showDataLabel option that puts values inside XY chart bars and sizes them to fit</a><br>
-      • <a href="https://github.com/mermaid-js/mermaid/pull/6274">Knuth-Plass word wrapping for journey diagram legends, so long labels stop overlapping the diagram</a><br>
-      • <a href="https://github.com/mermaid-js/mermaid/pull/6225">Title color, font, and size options for journey diagrams</a>
-    </td>
-    <td>
-      <a href="https://github.com/mermaid-js/mermaid">
-        <img src="https://img.shields.io/badge/-Repo-333?style=flat&logo=github&logoColor=white" height="21" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>🗂️</td>
-    <td>
-      <b><a href="https://github.com/Shahir-47/open-source-contributions">Open Source Portfolio</a></b><br><br>
-      The projects I've contributed to, with a link to each merged pull request.
-    </td>
-    <td>
-      <a href="https://github.com/Shahir-47/open-source-contributions">
-        <img src="https://img.shields.io/badge/-Portfolio-7952B3?style=flat&logo=github&logoColor=white" height="21" />
-      </a>
-    </td>
-  </tr>
-</table>
+I'm looking for Summer 2027 software engineering internships.
 
-</div>
-
-<br>
-
-<div align="center">
-  
- ## 👨🏻‍💻 &nbsp;Technical Stack
+## Experience
 
 <table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-        <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify">
-        <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>AI & APIs</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openaigym&logoColor=white" alt="OpenAI">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-        <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Testing</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-
-## 💼 &nbsp;Professional Experience
-
-<table align="center">
   <tr>
-    <td>🛒</td>
-    <td>
-      <b>Software Engineer @ <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Sep 2026)</i><br>
-      • Built the voice assistant that lets store owners manage inventory in their own language (it cut inventory time by 60%)<br>
-      • Set up 3 GitHub Actions pipelines that run 2,604 Vitest tests on 173 TypeScript APIs before anything reaches production<br>
-      • Added semantic search with OpenAI embeddings alongside keyword search for natural language queries, which lowered zero-result searches 7%<br>
-      • Cut AI costs by putting Redis rate limiting and a per-user token allowance on the Next.js routes that call OpenAI<br>
-      • The product got Sarva into the gener8tor and Meta gBETA accelerator and the Ship Tank and launchU finals
+    <td width="64" valign="top"><a href="https://www.sarvabazaar.com"><img src="assets/logos/sarva.png" width="48" alt="Sarva logo"></a></td>
+    <td valign="top">
+      <b>Software Engineer at <a href="https://www.sarvabazaar.com">Sarva</a></b> <i>(May 2025 - Sep 2026)</i>
+      <ul>
+        <li>Built the voice assistant that lets store owners manage inventory in their own language (it cut inventory time by 60%)</li>
+        <li>Set up 3 GitHub Actions pipelines that run 2,604 Vitest tests on 173 TypeScript APIs before anything reaches production</li>
+        <li>Added semantic search with OpenAI embeddings alongside keyword search for natural language queries, which lowered zero-result searches by 7%</li>
+        <li>Cut AI costs by putting Redis rate limiting and a per-user token allowance on the Next.js routes that call OpenAI</li>
+        <li>The product I built got Sarva into the gener8tor and Meta gBETA accelerator and the Ship Tank and launchU finals</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>🌾</td>
-    <td>
-      <b>Software Engineer Intern @ <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
-      Open source software that vegetable farms use to keep records for organic certification, funded by the National Science Foundation<br>
-      • Built 18+ transactional Node.js REST APIs on PostgreSQL that automate crop logging and save farmers 12+ hours a week<br>
-      • Moved 22+ Vue.js components to Vuex and cut page load time by 60%<br>
-      • Got 25 pull requests merged, with 30+ Cypress tests, and became the project's <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">2nd top contributor</a>
+    <td width="64" valign="top"><a href="https://github.com/FarmData2/FarmData2"><img src="assets/logos/farmdata2.png" width="48" alt="FarmData2 logo"></a></td>
+    <td valign="top">
+      <b>Software Engineer Intern at <a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b> <i>(May 2024 - May 2025)</i><br>
+      Open source software that vegetable farms use to keep records for organic certification, funded by the National Science Foundation
+      <ul>
+        <li>Built 18+ transactional Node.js REST APIs on PostgreSQL that automate crop logging and save farmers 12+ hours a week</li>
+        <li>Moved 22+ Vue.js components to Vuex and cut page load time by 60%</li>
+        <li>Got 25 pull requests merged, with 30+ Cypress tests, and became the project's <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">2nd top contributor</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>👨‍🏫</td>
-    <td>
-      <b>Teaching Assistant @ Dickinson College</b> <i>(Sep 2022 - May 2025)</i><br>
-      • Ran weekly Python and Java code reviews and office hours for 25+ students over 6 semesters, and their assignment scores went up 15%
+    <td width="64" valign="top"><img src="assets/logos/dickinson.png" width="48" alt="Dickinson College logo"></td>
+    <td valign="top">
+      <b>Teaching Assistant at Dickinson College</b> <i>(Sep 2022 - May 2025)</i>
+      <ul>
+        <li>Ran weekly Python and Java code reviews and office hours for 25+ students over 6 semesters, and their assignment scores went up 15%</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>🏗️</td>
-    <td>
-      <b>Software Engineer (Volunteer) @ 84 Lumber</b> <i>(Sep 2023 - Jan 2024)</i> | <a href="https://www.dickinson.edu/news/article/5821/dickinson_students_work_with_alum_to_breathe_new_life_into_84_lumbers_legacy_systems">Dickinson News story</a><br>
-      • Wrote an ANTLR4 translator that walks the abstract syntax tree of legacy CBASIC code and outputs Python and Java<br>
-      • Worked with 11 teammates on a plan to modernize 50,000+ lines of CBASIC, and the $9B retailer used it to shape its roadmap
+    <td width="64" valign="top"><img src="assets/logos/84-lumber.png" width="48" alt="84 Lumber logo"></td>
+    <td valign="top">
+      <b>Software Engineer (Volunteer) at 84 Lumber</b> <i>(Sep 2023 - Jan 2024)</i>
+      <ul>
+        <li>Wrote an ANTLR4 translator that walks the abstract syntax tree of legacy CBASIC code and outputs Python and Java</li>
+        <li>Worked with 11 teammates on a plan to modernize 50,000+ lines of CBASIC, and the $9B retailer used it to shape its roadmap</li>
+        <li>Featured in <a href="https://www.dickinson.edu/news/article/5821/dickinson_students_work_with_alum_to_breathe_new_life_into_84_lumbers_legacy_systems">Dickinson News</a></li>
+      </ul>
     </td>
   </tr>
 </table>
 
-</div>
+## Open Source
 
-<br>
-
-<div align="center">
-
-## 🖥 &nbsp;Featured Projects
-
-**Consider giving my work a :star: to show some :heart:**
-
-<table align="center">
+<table>
   <tr>
-    <td>📸</td>
-    <td>
-      <b><a href="https://grab-pic.vercel.app">GrabPic</a></b> |
-      <a href="https://github.com/Shahir-47/Grab-Pic">Repository</a> |
-      <a href="https://grab-pic.vercel.app">Live Demo</a><br>
-      After a wedding or event, the host shares one link and each guest takes a selfie to get only the photos they're in. A Python worker turns every face into an embedding, and pgvector finds a guest's matches in an album of 500+ photos in under 200 milliseconds.<br>
-      <sub>Next.js, Spring Boot, Python, PostgreSQL, pgvector, AWS, Redis, Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>📄</td>
-    <td>
-      <b><a href="https://paper-pulse-nu.vercel.app">PaperPulse</a></b> |
-      <a href="https://github.com/Shahir-47/Paper-Pulse">Repository</a> |
-      <a href="https://paper-pulse-nu.vercel.app">Live Demo</a><br>
-      Every night it pulls new papers from arXiv, PubMed, Semantic Scholar, and OpenAlex and picks the 25 that fit your interests best, so they're in your feed when you wake up. You can also ask it questions, and the answers come from the papers themselves with citations.<br>
-      <sub>FastAPI, Next.js, PostgreSQL, pgvector, Neo4j, OpenAI, Cohere, Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🏠</td>
-    <td>
-      <b><a href="https://lab.shahirahmed.com">Home Server</a></b> |
-      <a href="https://github.com/Shahir-47/nitro-lab">Repository</a> |
-      <a href="https://lab.shahirahmed.com">Live Demo</a><br>
-      GrabPic and PaperPulse used to cost me about $100 a month on AWS. Now they run on an old Acer Nitro 5 gaming laptop at home, along with Queue Up, for about $1 a month. Traffic comes in through a Cloudflare Tunnel so my router has no open ports, and the live page shows what's running on it in real time.<br>
-      <sub>Linux, Docker, Coolify, Cloudflare Tunnel, Tailscale, Uptime Kuma, Next.js</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🎵</td>
-    <td>
-      <b><a href="https://queue-up.shahirahmed.com">Queue Up</a></b> |
-      <a href="https://github.com/Shahir-47/Queue-Up">Repository</a> |
-      <a href="https://queue-up.shahirahmed.com">Live Demo</a><br>
-      Meet people who listen to the same music you do. It ranks people by how much their Spotify history overlaps with yours, and once you both swipe right you can chat in real time.<br>
-      <sub>Spring Boot, React, PostgreSQL, WebSockets, Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>✅</td>
-    <td>
-      <b><a href="https://cosign-nwwl.onrender.com">CoSign</a></b> |
-      <a href="https://github.com/Shahir-47/CoSign">Repository</a> |
-      <a href="https://cosign-nwwl.onrender.com">Live Demo</a><br>
-      A to-do app where you can't check off your own tasks. Someone you pick has to approve your proof, and if the deadline passes first, they get emailed a penalty you wrote ahead of time. It stays AES-encrypted until then.<br>
-      <sub>Spring Boot, React, TypeScript, WebSockets, Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🖥️</td>
-    <td>
-      <b><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/">PandOS</a></b> |
-      <a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/">Repository</a><br>
-      An operating system kernel I wrote in C for uMPS3, an emulated MIPS machine. It runs up to 20 processes on 5 millisecond round-robin time slices and handles semaphores, system calls, interrupts, and virtual memory through the TLB.<br>
-      <sub>C, MIPS, uMPS3</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🔗</td>
-    <td>
-      <b><a href="https://github.com/Shahir-47/bittorrent-client-js">BitTorrent Client</a></b> |
-      <a href="https://github.com/Shahir-47/bittorrent-client-js">Repository</a><br>
-      Give it a .torrent file or a magnet link and it downloads the file straight from the peers sharing it, checking every piece against its SHA-1 hash. I wrote the bencode parser and the wire protocol myself.<br>
-      <sub>Node.js</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🗺️</td>
-    <td>
-      <b><a href="https://albatross-hack.netlify.app/map">Albatross</a></b> | <a href="https://github.com/HackHarvard2024-Team/front-end">Repository</a> | <a href="https://devpost.com/software/albatross">Devpost</a> | <a href="https://albatross-hack.netlify.app/map">Live Demo</a><br>
-      Two of my teammates had felt unsafe walking through parts of Boston, so at HackHarvard 2024 we built a navigation app that finds a fast walking route around crime hot zones. We clustered 50K+ crime records into zones with Databricks and MLflow, and I built the Vue.js frontend that draws them on the map.<br>
-      <sub>Vue.js, Cloudflare Workers, Databricks, MLflow, Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>🩺</td>
-    <td>
-      <b><a href="https://sweet-friend.vercel.app/app/dashboard">SweetFriend</a></b> | <a href="https://github.com/dmicz/SweetFriend">Repository</a> | <a href="https://devpost.com/software/sweetfriend">Devpost</a> | <a href="https://sweet-friend.vercel.app">Live Demo</a><br>
-      Shows live readings from a Dexcom glucose monitor and estimates the carbs in a meal from a photo. We built it at PennApps 2024 for a teammate who lives with type 1 diabetes, and I did the React frontend and the glucose chart.<br>
-      <sub>React, Flask, MongoDB, Chart.js, Twilio</sub>
+    <td width="64" valign="top"><a href="https://github.com/mermaid-js/mermaid"><img src="assets/logos/mermaid.png" width="48" alt="Mermaid.js logo"></a></td>
+    <td valign="top">
+      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - Apr 2026)</i><br>
+      <a href="https://github.com/mermaid-js/mermaid/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-25th_of_600%2B-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Contributor rank: 25th of 600+"></a>
+      <a href="https://npmtrends.com/mermaid"><img src="https://img.shields.io/npm/dw/mermaid?style=flat&label=npm%20downloads&color=FF3670" alt="Mermaid.js weekly npm downloads"></a>
+      <a href="https://github.com/mermaid-js/mermaid/stargazers"><img src="https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=stars&color=FF3670" alt="Mermaid.js GitHub stars"></a>
+      <p>Mermaid.js turns a few lines of text into diagrams. GitHub and Microsoft use it, so every change has to get through CI and a maintainer's review. I've had 3 pull requests merged into its 200,000 line TypeScript codebase, all with Cypress tests:</p>
+      <ul>
+        <li><a href="https://github.com/mermaid-js/mermaid/pull/6475">A showDataLabel option that puts values inside XY chart bars and sizes them to fit</a></li>
+        <li><a href="https://github.com/mermaid-js/mermaid/pull/6274">Knuth-Plass word wrapping for journey diagram legends, so long labels stop overlapping the diagram</a></li>
+        <li><a href="https://github.com/mermaid-js/mermaid/pull/6225">Title color, font, and size options for journey diagrams</a></li>
+      </ul>
     </td>
   </tr>
 </table>
 
-</div>
+My [open source portfolio](https://github.com/Shahir-47/open-source-contributions) has every project I've contributed to, with a link to each merged pull request.
 
-<br>
+## Projects
 
-<div align="center">
+*Consider giving my work a star to show some love.*
 
-## 🎓 &nbsp;Education & Achievements
-
-<table align="center">
+<table>
   <tr>
-    <td>🗽</td>
-    <td>
-      <b>M.S. in Computer Science</b><br>
-      <i>New York University (September 2026 - May 2028, expected)</i>
+    <td width="50%" valign="top">
+      <a href="https://grab-pic.vercel.app"><img src="assets/projects/grabpic.png" width="100%" alt="GrabPic screenshot"></a>
+      <h3>GrabPic</h3>
+      <p>After a wedding or event, the host shares one link and each guest takes a selfie to get only the photos they're in. Matches come back from albums of 500+ photos in under 200 milliseconds.</p>
+      <a href="https://grab-pic.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/Shahir-47/Grab-Pic"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>Next.js, Spring Boot, Python, pgvector, AWS, Redis, Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://paper-pulse-nu.vercel.app"><img src="assets/projects/paperpulse.png" width="100%" alt="PaperPulse screenshot"></a>
+      <h3>PaperPulse</h3>
+      <p>Every night it pulls new papers from arXiv, PubMed, Semantic Scholar, and OpenAlex and picks the 25 that fit your interests best. You can ask questions about any of them and get answers with citations.</p>
+      <a href="https://paper-pulse-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/Shahir-47/Paper-Pulse"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>FastAPI, Next.js, pgvector, Neo4j, OpenAI, Cohere, Docker</sub>
     </td>
   </tr>
   <tr>
-    <td>🎓</td>
-    <td>
-      <b>B.S. in Computer Science & Mathematics</b><br>
-      <i>Dickinson College (August 2021 - May 2025) | GPA: 3.52/4.00</i><br>
-      Honors: Cum Laude, Dean's List, Pi Mu Epsilon, The 1783 Scholarship
+    <td width="50%" valign="top">
+      <a href="https://lab.shahirahmed.com"><img src="assets/projects/homeserver.png" width="100%" alt="Home server status page screenshot"></a>
+      <h3>Home Server</h3>
+      <p>An old Acer Nitro 5 gaming laptop that hosts my apps for about $1 a month instead of $100 on AWS. Traffic comes in through a Cloudflare Tunnel, so my router has no open ports.</p>
+      <a href="https://lab.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/Shahir-47/nitro-lab"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>Linux, Docker, Coolify, Cloudflare Tunnel, Tailscale, Uptime Kuma</sub>
     </td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td>
-      <b>Certifications:</b> <a href="https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3">CS50x: Introduction to Computer Science</a>, <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1945277d-7a1c-4899-981f-d28b4a0e68a7&">MATLAB Onramp</a><br>
-      <b>Languages:</b> English, Urdu, Hindi (Native/Bilingual proficiency)
+    <td width="50%" valign="top">
+      <a href="https://queue-up.shahirahmed.com"><img src="assets/projects/queue-up.png" width="100%" alt="Queue Up screenshot"></a>
+      <h3>Queue Up</h3>
+      <p>Meet people who listen to the same music you do. It ranks everyone by how much their Spotify history overlaps with yours, and once you both swipe right you can chat in real time.</p>
+      <a href="https://queue-up.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/Shahir-47/Queue-Up"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>Spring Boot, React, PostgreSQL, WebSockets, Docker</sub>
     </td>
   </tr>
 </table>
-</div>
 
-<br>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>CoSign</h3>
+      <p>A to-do app where you can't check off your own tasks. Someone you pick approves your proof, and if you miss the deadline, they get emailed a penalty you wrote ahead of time.</p>
+      <a href="https://cosign-nwwl.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/Shahir-47/CoSign"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>Spring Boot, React, TypeScript, WebSockets</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>PandOS</h3>
+      <p>An operating system kernel I wrote in C for uMPS3, an emulated MIPS machine. It runs up to 20 processes on 5 millisecond time slices and handles semaphores, system calls, interrupts, and virtual memory.</p>
+      <a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>C, MIPS, uMPS3</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>BitTorrent Client</h3>
+      <p>Give it a .torrent file or a magnet link and it downloads the file straight from the peers sharing it, checking every piece against its SHA-1 hash. I wrote the bencode parser and the wire protocol myself.</p>
+      <a href="https://github.com/Shahir-47/bittorrent-client-js"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <br><sub>Node.js</sub>
+    </td>
+  </tr>
+</table>
+
+## Hackathons
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://albatross-hack.netlify.app/map"><img src="assets/projects/albatross.png" width="100%" alt="Albatross screenshot"></a>
+      <h3>Albatross <sub>HackHarvard 2024</sub></h3>
+      <p>Two of my teammates had felt unsafe walking through parts of Boston, so we built a navigation app that routes around crime hot zones. I built the Vue.js frontend that draws the zones and the safer route on the map.</p>
+      <a href="https://albatross-hack.netlify.app/map"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/HackHarvard2024-Team/front-end"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://devpost.com/software/albatross"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
+      <br><sub>Vue.js, Cloudflare Workers, Databricks, MLflow</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="assets/projects/sweetfriend.png" width="100%" alt="SweetFriend screenshot"></a>
+      <h3>SweetFriend <sub>PennApps 2024</sub></h3>
+      <p>Shows live readings from a Dexcom glucose monitor and estimates the carbs in a meal from a photo. We built it for a teammate with type 1 diabetes, and I did the React frontend and the glucose chart.</p>
+      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
+      <a href="https://github.com/dmicz/SweetFriend"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+      <a href="https://devpost.com/software/sweetfriend"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
+      <br><sub>React, Flask, MongoDB, Chart.js, Twilio</sub>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white" alt="D3.js">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify">
+      <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openaigym&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+      <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+    </td>
+  </tr>
+  
+</table>
+
+## Education
+
+<table>
+  <tr>
+    <td width="64" valign="top"><img src="assets/logos/nyu.png" width="48" alt="NYU logo"></td>
+    <td valign="top">
+      <b>New York University</b> <i>(Sep 2026 - May 2028, expected)</i><br>
+      M.S. in Computer Science
+    </td>
+  </tr>
+  <tr>
+    <td width="64" valign="top"><img src="assets/logos/dickinson.png" width="48" alt="Dickinson College logo"></td>
+    <td valign="top">
+      <b>Dickinson College</b> <i>(Aug 2021 - May 2025)</i><br>
+      B.S. in Computer Science & Mathematics, GPA 3.52/4.00<br>
+      Cum Laude, Dean's List, Pi Mu Epsilon, The 1783 Scholarship
+    </td>
+  </tr>
+</table>
+
+**Certifications:** [CS50x: Introduction to Computer Science](https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3), [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1945277d-7a1c-4899-981f-d28b4a0e68a7&)<br>
+**Spoken languages:** English, Urdu, Hindi
+
+## GitHub Stats
 
 <div align="center">
-
-## 📊 &nbsp;GitHub Stats
 
 <img align="center"
   src="https://github-stats-alpha-tawny.vercel.app/api?username=Shahir-47&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=00000000"
@@ -390,9 +322,11 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 
 ![GitHub Streak](https://github-readme-streak-stats-steel-eight-67.vercel.app/?user=Shahir-47&background=00000000&title_color=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&hide_border=true&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)
 
-<br>
+</div>
 
-## 😉 &nbsp;Random dev joke for you!
+## Random dev joke for you!
+
+<div align="center">
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
