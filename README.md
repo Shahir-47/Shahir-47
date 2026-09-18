@@ -19,9 +19,7 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
  
 </div>
 
-<br>
-
-<div align="center">
+## About me
 
 [![Website Badge](https://img.shields.io/badge/-Visit%20My%20Website-15AABF?style=flat&logo=semanticui&logoColor=white)](https://shahirahmed.com/ "Visit My Website")
 [![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-34A853?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1APlXopNkSxXLLTHnxH-MBNT3GJKWq9Rp/view?usp=sharing "View My Resume")
@@ -30,15 +28,9 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 [![Devpost Badge](https://img.shields.io/badge/-Check%20out%20Devpost-0096C7?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Shahir-47 "See My Devpost Projects")
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahir.a@nyu.edu "Send an Email")
 
-</div>
-
-## About me
-
-Hi, I'm **Shahir Ahmed**, a software engineer in New York working on my Master's in Computer Science at NYU. Before NYU I worked at [Sarva](https://www.sarvabazaar.com), a startup for neighborhood grocery shops still keeping inventory on paper.
+Hi, I'm **Shahir Ahmed**, a software engineer in New York working on my Master's in Computer Science at NYU. Before NYU I worked at [Sarva](https://www.sarvabazaar.com), an inventory management startup.
 
 Most of what I build is full-stack, usually a Next.js or React frontend talking to a Spring Boot or FastAPI backend. My newer projects run on a [home server](https://lab.shahirahmed.com) I set up on an old gaming laptop, and I contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where I'm ranked 25th out of 600+ contributors.
-
-I'm looking for Summer 2027 software engineering internships.
 
 ## Experience
 
@@ -96,10 +88,12 @@ I'm looking for Summer 2027 software engineering internships.
   <tr>
     <td width="64" valign="top"><a href="https://github.com/mermaid-js/mermaid"><img src="assets/logos/mermaid.png" width="48" alt="Mermaid.js logo"></a></td>
     <td valign="top">
-      <b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - Apr 2026)</i><br>
-      <a href="https://github.com/mermaid-js/mermaid/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-25th_of_600%2B-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Contributor rank: 25th of 600+"></a>
-      <a href="https://npmtrends.com/mermaid"><img src="https://img.shields.io/npm/dw/mermaid?style=flat&label=npm%20downloads&color=FF3670" alt="Mermaid.js weekly npm downloads"></a>
-      <a href="https://github.com/mermaid-js/mermaid/stargazers"><img src="https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=stars&color=FF3670" alt="Mermaid.js GitHub stars"></a>
+      <p><b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b> <i>(Jan 2025 - Apr 2026)</i></p>
+      <p>
+        <a href="https://github.com/mermaid-js/mermaid/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-25th_of_600%2B-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Contributor rank: 25th of 600+"></a>
+        <a href="https://npmtrends.com/mermaid"><img src="https://img.shields.io/npm/dw/mermaid?style=flat&label=npm%20downloads&color=FF3670" alt="Mermaid.js weekly npm downloads"></a>
+        <a href="https://github.com/mermaid-js/mermaid/stargazers"><img src="https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=stars&color=FF3670" alt="Mermaid.js GitHub stars"></a>
+      </p>
       <p>Mermaid.js turns a few lines of text into diagrams. GitHub and Microsoft use it, so every change has to get through CI and a maintainer's review. I've had 3 pull requests merged into its 200,000 line TypeScript codebase, all with Cypress tests:</p>
       <ul>
         <li><a href="https://github.com/mermaid-js/mermaid/pull/6475">A showDataLabel option that puts values inside XY chart bars and sizes them to fit</a></li>
@@ -116,93 +110,116 @@ My [open source portfolio](https://github.com/Shahir-47/open-source-contribution
 
 *Consider giving my work a star to show some love.*
 
-<table>
+<table align="left">
   <tr>
-    <td width="50%" valign="top">
+    <td width="374" height="481" valign="top">
       <a href="https://grab-pic.vercel.app"><img src="assets/projects/grabpic.png" width="100%" alt="GrabPic screenshot"></a>
       <h3>GrabPic</h3>
       <p>After a wedding or event, the host shares one link and each guest takes a selfie to get only the photos they're in. Matches come back from albums of 500+ photos in under 200 milliseconds.</p>
-      <a href="https://grab-pic.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/Shahir-47/Grab-Pic"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>Next.js, Spring Boot, Python, pgvector, AWS, Redis, Docker</sub>
+      <p><sub>Next.js, Spring Boot, Python, pgvector, AWS, Redis, Docker</sub></p>
+      <a href="https://grab-pic.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/Shahir-47/Grab-Pic"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+<img src="assets/spacer.png" align="left" width="1" height="1" alt="">
+<table align="left">
+  <tr>
+    <td width="374" height="481" valign="top">
       <a href="https://paper-pulse-nu.vercel.app"><img src="assets/projects/paperpulse.png" width="100%" alt="PaperPulse screenshot"></a>
       <h3>PaperPulse</h3>
       <p>Every night it pulls new papers from arXiv, PubMed, Semantic Scholar, and OpenAlex and picks the 25 that fit your interests best. You can ask questions about any of them and get answers with citations.</p>
-      <a href="https://paper-pulse-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/Shahir-47/Paper-Pulse"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>FastAPI, Next.js, pgvector, Neo4j, OpenAI, Cohere, Docker</sub>
+      <p><sub>FastAPI, Next.js, pgvector, Neo4j, OpenAI, Cohere, Docker</sub></p>
+      <a href="https://paper-pulse-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/Shahir-47/Paper-Pulse"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
     </td>
   </tr>
+</table>
+<br clear="left">
+
+<table align="left">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://lab.shahirahmed.com"><img src="assets/projects/homeserver.png" width="100%" alt="Home server status page screenshot"></a>
+    <td width="374" height="481" valign="top">
+      <a href="https://lab.shahirahmed.com"><img src="assets/projects/homeserver.png" width="100%" alt="Home Server screenshot"></a>
       <h3>Home Server</h3>
       <p>An old Acer Nitro 5 gaming laptop that hosts my apps for about $1 a month instead of $100 on AWS. Traffic comes in through a Cloudflare Tunnel, so my router has no open ports.</p>
-      <a href="https://lab.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/Shahir-47/nitro-lab"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>Linux, Docker, Coolify, Cloudflare Tunnel, Tailscale, Uptime Kuma</sub>
+      <p><sub>Linux, Docker, Coolify, Cloudflare Tunnel, Tailscale, Uptime Kuma</sub></p>
+      <a href="https://lab.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/Shahir-47/nitro-lab"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+<img src="assets/spacer.png" align="left" width="1" height="1" alt="">
+<table align="left">
+  <tr>
+    <td width="374" height="481" valign="top">
       <a href="https://queue-up.shahirahmed.com"><img src="assets/projects/queue-up.png" width="100%" alt="Queue Up screenshot"></a>
       <h3>Queue Up</h3>
       <p>Meet people who listen to the same music you do. It ranks everyone by how much their Spotify history overlaps with yours, and once you both swipe right you can chat in real time.</p>
-      <a href="https://queue-up.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/Shahir-47/Queue-Up"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>Spring Boot, React, PostgreSQL, WebSockets, Docker</sub>
+      <p><sub>Spring Boot, React, PostgreSQL, WebSockets, Docker</sub></p>
+      <a href="https://queue-up.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/Shahir-47/Queue-Up"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
     </td>
   </tr>
 </table>
+<br clear="left">
 
-<table>
+<table align="left">
   <tr>
-    <td width="33%" valign="top">
+    <td width="234" height="360" valign="top">
       <h3>CoSign</h3>
       <p>A to-do app where you can't check off your own tasks. Someone you pick approves your proof, and if you miss the deadline, they get emailed a penalty you wrote ahead of time.</p>
-      <a href="https://cosign-nwwl.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/Shahir-47/CoSign"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>Spring Boot, React, TypeScript, WebSockets</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>PandOS</h3>
-      <p>An operating system kernel I wrote in C for uMPS3, an emulated MIPS machine. It runs up to 20 processes on 5 millisecond time slices and handles semaphores, system calls, interrupts, and virtual memory.</p>
-      <a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>C, MIPS, uMPS3</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>BitTorrent Client</h3>
-      <p>Give it a .torrent file or a magnet link and it downloads the file straight from the peers sharing it, checking every piece against its SHA-1 hash. I wrote the bencode parser and the wire protocol myself.</p>
-      <a href="https://github.com/Shahir-47/bittorrent-client-js"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <br><sub>Node.js</sub>
+      <p><sub>Spring Boot, React, TypeScript, WebSockets</sub></p>
+      <a href="https://cosign-nwwl.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/Shahir-47/CoSign"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
     </td>
   </tr>
 </table>
+<img src="assets/spacer.png" align="left" width="1" height="1" alt="">
+<table align="left">
+  <tr>
+    <td width="234" height="360" valign="top">
+      <h3>PandOS</h3>
+      <p>An operating system kernel I wrote in C for uMPS3, an emulated MIPS machine. It runs up to 20 processes on 5 millisecond time slices and handles semaphores, system calls, interrupts, and virtual memory.</p>
+      <p><sub>C, MIPS, uMPS3</sub></p>
+      <a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+</table>
+<img src="assets/spacer.png" align="left" width="1" height="1" alt="">
+<table align="left">
+  <tr>
+    <td width="234" height="360" valign="top">
+      <h3>BitTorrent Client</h3>
+      <p>Give it a .torrent file or a magnet link and it downloads the file straight from the peers sharing it, checking every piece against its SHA-1 hash. I wrote the bencode parser and the wire protocol myself.</p>
+      <p><sub>Node.js</sub></p>
+      <a href="https://github.com/Shahir-47/bittorrent-client-js"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
+    </td>
+  </tr>
+</table>
+<br clear="left">
 
 ## Hackathons
 
-<table>
+<table align="left">
   <tr>
-    <td width="50%" valign="top">
+    <td width="374" height="482" valign="top">
       <a href="https://albatross-hack.netlify.app/map"><img src="assets/projects/albatross.png" width="100%" alt="Albatross screenshot"></a>
       <h3>Albatross <sub>HackHarvard 2024</sub></h3>
       <p>Two of my teammates had felt unsafe walking through parts of Boston, so we built a navigation app that routes around crime hot zones. I built the Vue.js frontend that draws the zones and the safer route on the map.</p>
-      <a href="https://albatross-hack.netlify.app/map"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/HackHarvard2024-Team/front-end"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <a href="https://devpost.com/software/albatross"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
-      <br><sub>Vue.js, Cloudflare Workers, Databricks, MLflow</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="assets/projects/sweetfriend.png" width="100%" alt="SweetFriend screenshot"></a>
-      <h3>SweetFriend <sub>PennApps 2024</sub></h3>
-      <p>Shows live readings from a Dexcom glucose monitor and estimates the carbs in a meal from a photo. We built it for a teammate with type 1 diabetes, and I did the React frontend and the glucose chart.</p>
-      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a>
-      <a href="https://github.com/dmicz/SweetFriend"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a>
-      <a href="https://devpost.com/software/sweetfriend"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
-      <br><sub>React, Flask, MongoDB, Chart.js, Twilio</sub>
+      <p><sub>Vue.js, Cloudflare Workers, Databricks, MLflow</sub></p>
+      <a href="https://albatross-hack.netlify.app/map"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/HackHarvard2024-Team/front-end"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a> <a href="https://devpost.com/software/albatross"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
     </td>
   </tr>
 </table>
+<img src="assets/spacer.png" align="left" width="1" height="1" alt="">
+<table align="left">
+  <tr>
+    <td width="374" height="482" valign="top">
+      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="assets/projects/sweetfriend.png" width="100%" alt="SweetFriend screenshot"></a>
+      <h3>SweetFriend <sub>PennApps 2024</sub></h3>
+      <p>Shows live readings from a Dexcom glucose monitor and estimates the carbs in a meal from a photo. We built it for a teammate with type 1 diabetes, and I did the React frontend and the glucose chart.</p>
+      <p><sub>React, Flask, MongoDB, Chart.js, Twilio</sub></p>
+      <a href="https://sweet-friend.vercel.app/app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo"></a> <a href="https://github.com/dmicz/SweetFriend"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code"></a> <a href="https://devpost.com/software/sweetfriend"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost"></a>
+    </td>
+  </tr>
+</table>
+<br clear="left">
 
 ## Tech Stack
 
