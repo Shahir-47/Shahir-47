@@ -58,16 +58,14 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <a href="https://grab-pic.vercel.app"><img src="assets/projects/grabpic.png" width="100%" alt="GrabPic screenshot"></a>
       <h3>GrabPic</h3>
       <p><a href="https://grab-pic.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/Grab-Pic"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>After weddings and events, I kept doing the same thing: searching the album for one person's face, sending them their photos, then starting over for the next person. GrabPic replaces that with one link. The host uploads everything, and each guest takes a selfie to get only the photos they're in.</p>
-      <p>Behind that link, a Next.js frontend talks to a Spring Boot API, and a Python worker turns every face into an embedding. Finding someone's photos is then a nearest-neighbor search in pgvector that takes under 200 milliseconds.<br>&nbsp;</p>
+      <p>Guests take a selfie after an event and get only the photos they're in, so nobody has to dig through the whole album.<br>&nbsp;</p>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://paper-pulse-nu.vercel.app"><img src="assets/projects/paperpulse.png" width="100%" alt="PaperPulse screenshot"></a>
       <h3>PaperPulse</h3>
       <p><a href="https://paper-pulse-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/Paper-Pulse"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>Keeping up with research means checking arXiv, PubMed, and a few other databases every day and sorting through a lot of papers that don't matter to you. PaperPulse does that search overnight, so the 25 papers most relevant to you are waiting in your feed the next morning.</p>
-      <p>You can also ask it questions and get answers pulled from the papers themselves, with citations. It finds those answers with vector search plus a Neo4j graph that links each paper to its authors, concepts, and citations.<br>&nbsp;</p>
+      <p>Every morning it finds the 25 new research papers that matter most to you, and you can ask it questions about any of them.<br>&nbsp;</p>
     </td>
   </tr>
 </table>
@@ -78,16 +76,14 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <a href="https://lab.shahirahmed.com"><img src="assets/projects/homeserver.png" width="100%" alt="Home Server screenshot"></a>
       <h3>Home Server</h3>
       <p><a href="https://lab.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/nitro-lab"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>GrabPic and PaperPulse used to cost me about $100 a month on AWS. I moved them onto an old Acer Nitro 5 gaming laptop at home, along with Queue Up and a few apps I use myself, and now everything runs for about $1 a month.</p>
-      <p>Visitors never connect to my home network directly. Traffic comes in through a Cloudflare Tunnel, so my router has no open ports, and the live page shows every container and the laptop's CPU and GPU readings as they change.<br>&nbsp;</p>
+      <p>An old gaming laptop that hosts my apps for about $1 a month instead of $100 on AWS.<br>&nbsp;</p>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://queue-up.shahirahmed.com"><img src="assets/projects/queue-up.png" width="100%" alt="Queue Up screenshot"></a>
       <h3>Queue Up</h3>
       <p><a href="https://queue-up.shahirahmed.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/Queue-Up"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>Queue Up is for meeting people through music. It reads your Spotify history, from top artists to saved songs, and shows you the people whose taste overlaps with yours the most.</p>
-      <p>A shared favorite artist counts for more than a shared saved song, and each profile shows exactly what you have in common. Once you both swipe right, you can chat in real time.<br>&nbsp;</p>
+      <p>Matches you with people who listen to the same music, based on your Spotify history, and lets you chat when it's mutual.<br>&nbsp;</p>
     </td>
   </tr>
 </table>
@@ -96,17 +92,17 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     <td width="33%" align="center" valign="top">
       <h3>CoSign</h3>
       <p><a href="https://cosign-nwwl.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/CoSign"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>It's easy to ignore a to-do list when nobody's checking. In CoSign, someone you pick has to approve your proof before a task counts as done. If the deadline passes first, they get emailed a penalty you wrote ahead of time and would rather keep private.<br>&nbsp;</p>
+      <p>A to-do app where someone you pick has to sign off on your work. Miss the deadline and they get the penalty you wrote.<br>&nbsp;</p>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>PandOS</h3>
       <p><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>An operating system kernel I wrote in C for uMPS3, an emulated MIPS computer. It runs up to 20 processes and switches between them every 5 milliseconds, so each one gets a fair turn on the CPU. Each process also gets its own virtual memory, mapped through the TLB.<br>&nbsp;</p>
+      <p>An operating system kernel I wrote in C. It runs up to 20 processes at once and gives each one its own virtual memory.<br>&nbsp;</p>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>BitTorrent Client</h3>
       <p><a href="https://github.com/Shahir-47/bittorrent-client-js"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
-      <p>A BitTorrent client I wrote from scratch in Node.js. Give it a .torrent file or a magnet link and it downloads the file straight from other peers, piece by piece. Every piece gets checked against its SHA-1 hash before the file is put back together.<br>&nbsp;</p>
+      <p>Downloads files from .torrent files and magnet links by connecting straight to other peers. I wrote the protocol from scratch in Node.js.<br>&nbsp;</p>
     </td>
   </tr>
 </table>
@@ -125,8 +121,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <h3>Albatross</h3>
       <p><i>Built at HackHarvard 2024</i></p>
       <p><a href="https://albatross-hack.netlify.app/map"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/HackHarvard2024-Team/front-end"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a> <a href="https://devpost.com/software/albatross"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost" vspace="10"></a></p>
-      <p>Two of my teammates had felt unsafe walking through parts of Boston, so our team of four built Albatross in 36 hours. It finds a fast walking route that stays out of crime hot zones.</p>
-      <p>We clustered 50K+ crime records into hot zones with Databricks and MLflow, and Cloudflare Workers check each route against them. I built the Vue.js frontend that shows the zones and the safer route on the map.<br>&nbsp;</p>
+      <p>A walking route planner that keeps you out of crime hot zones in Boston. I built the Vue.js frontend that draws the map.<br>&nbsp;</p>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
@@ -134,8 +129,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <h3>SweetFriend</h3>
       <p><i>Built at PennApps 2024</i></p>
       <p><a href="https://sweet-friend.vercel.app/app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/dmicz/SweetFriend"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a> <a href="https://devpost.com/software/sweetfriend"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost" vspace="10"></a></p>
-      <p>One of my teammates lives with type 1 diabetes, and carb counting and insulin dosing were a daily guessing game for them. In 36 hours we built SweetFriend, which shows live readings from a Dexcom glucose monitor and estimates the carbs in a meal from a photo.</p>
-      <p>I built the React frontend, including the glucose chart where meals and workouts show up on the timeline. The backend sends meal photos to GPT-4o for carb estimates and texts you through Twilio when your glucose gets too high or too low.<br>&nbsp;</p>
+      <p>Estimates the carbs in a meal from a photo and shows it next to live glucose readings. We built it for a teammate with type 1 diabetes.<br>&nbsp;</p>
     </td>
   </tr>
 </table>
@@ -150,15 +144,19 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
   <tr>
     <td width="80" align="center" valign="top"><br><a href="https://github.com/mermaid-js/mermaid"><img src="assets/logos/mermaid.png" width="48" alt="Mermaid.js logo"></a></td>
     <td valign="top">
-      <br>
+      <img src="assets/spacer.png" width="900" height="1" alt="">
       <p><b><a href="https://github.com/mermaid-js/mermaid">Mermaid.js</a></b></p>
       <p>
         <a href="https://github.com/mermaid-js/mermaid/graphs/contributors"><img src="https://img.shields.io/badge/contributor_rank-25th_of_600%2B-FF3670?style=flat&logo=mermaid&logoColor=white" alt="Contributor rank: 25th of 600+" vspace="10"></a>
         <a href="https://npmtrends.com/mermaid"><img src="https://img.shields.io/npm/dw/mermaid?style=flat&label=npm%20downloads&color=FF3670" alt="Mermaid.js weekly npm downloads" vspace="10"></a>
         <a href="https://github.com/mermaid-js/mermaid/stargazers"><img src="https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=stars&color=FF3670" alt="Mermaid.js GitHub stars" vspace="10"></a>
       </p>
-      <p>Mermaid.js turns a few lines of text into diagrams. GitHub and Microsoft both use it, so every change has to pass CI and a maintainer's review before it's merged.</p>
-      <p>My first pull request added <a href="https://github.com/mermaid-js/mermaid/pull/6225">title color, font, and size options</a> to journey diagrams. After that I used the Knuth-Plass algorithm to <a href="https://github.com/mermaid-js/mermaid/pull/6274">wrap long legend labels</a> so they stop running into the diagram, and I added <a href="https://github.com/mermaid-js/mermaid/pull/6475">data labels to XY charts</a> that size themselves to fit each bar.<br>&nbsp;</p>
+      <p>The tool GitHub and Microsoft use to turn text into diagrams. What I've added:</p>
+      <ul>
+        <li><p><a href="https://github.com/mermaid-js/mermaid/pull/6225">Title color, font, and size options</a> for journey diagrams</p></li>
+        <li><p><a href="https://github.com/mermaid-js/mermaid/pull/6274">Word wrapping</a> so long legend labels stop running into the diagram</p></li>
+        <li><a href="https://github.com/mermaid-js/mermaid/pull/6475">Data labels</a> that fit inside the bars of XY charts<br>&nbsp;</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -175,9 +173,12 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
   <tr>
     <td width="80" align="center" valign="top"><br><a href="https://www.sarvabazaar.com"><img src="assets/logos/sarva.png" width="48" alt="Sarva logo"></a></td>
     <td valign="top">
-      <br>
+      <img src="assets/spacer.png" width="900" height="1" alt="">
       <p><b><a href="https://www.sarvabazaar.com">Sarva</a></b><br><i>Software engineer</i></p>
-      <p>The main thing I built at Sarva was a voice assistant that lets store owners update their stock by talking to it in their own language. It cut the time they spent on inventory by 60%. I also set up the CI pipelines that test all 173 of Sarva's APIs before anything goes out.<br>&nbsp;</p>
+      <ul>
+        <li><p>Built a voice assistant that lets store owners update their inventory by talking in their own language</p></li>
+        <li>Set up the CI pipelines that test every API before it ships<br>&nbsp;</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -185,7 +186,10 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     <td valign="top">
       <br>
       <p><b><a href="https://github.com/FarmData2/FarmData2">FarmData2</a></b><br><i>Software engineer intern</i></p>
-      <p>FarmData2 is open source software, funded by the National Science Foundation, that vegetable farms use to keep the records they need for organic certification. I built the APIs that log crops automatically, which saves farmers 12+ hours a week, and ended up as the project's <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">2nd top contributor</a>.<br>&nbsp;</p>
+      <ul>
+        <li><p>Open source record keeping for vegetable farms, where I built the APIs that log crops automatically</p></li>
+        <li>Ended up as the project's <a href="https://github.com/FarmData2/FarmData2/graphs/contributors">2nd top contributor</a><br>&nbsp;</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -193,7 +197,9 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     <td valign="top">
       <br>
       <p><b>Dickinson College</b><br><i>Teaching assistant</i></p>
-      <p>For six semesters I ran weekly Python and Java code reviews and office hours for students in the computer science department.<br>&nbsp;</p>
+      <ul>
+        <li>Ran weekly Python and Java code reviews and office hours for six semesters<br>&nbsp;</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -201,7 +207,10 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     <td valign="top">
       <br>
       <p><b>84 Lumber</b><br><i>Volunteer software engineer</i></p>
-      <p>I worked with 11 other students on a plan to move 84 Lumber's old CBASIC code to Python and Java. I wrote the translator, which uses ANTLR4 to parse the CBASIC and rebuild it in the new languages. <a href="https://www.dickinson.edu/news/article/5821/dickinson_students_work_with_alum_to_breathe_new_life_into_84_lumbers_legacy_systems">Dickinson News</a> wrote about the project.<br>&nbsp;</p>
+      <ul>
+        <li><p>Wrote a translator that turns the company's old CBASIC code into Python and Java</p></li>
+        <li>Featured in <a href="https://www.dickinson.edu/news/article/5821/dickinson_students_work_with_alum_to_breathe_new_life_into_84_lumbers_legacy_systems">Dickinson News</a><br>&nbsp;</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -340,7 +349,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
   <tr>
     <td width="80" align="center" valign="top"><br><a href="https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3"><img src="assets/logos/harvardx.png" width="48" alt="HarvardX logo"></a></td>
     <td valign="top">
-      <br>
+      <img src="assets/spacer.png" width="900" height="1" alt="">
       <p><b>CS50x: Introduction to Computer Science</b><br><i>HarvardX</i></p>
       <p><a href="https://courses.edx.org/certificates/679d72781ed04aaba91ad9ec4ead0de3"><img src="https://img.shields.io/badge/View_Certificate-00ADB5?style=flat" alt="View Certificate" vspace="10"></a></p>
       <p>Harvard's intro course, where I learned C and memory management before moving on to Python, SQL, and Flask.<br>&nbsp;</p>
