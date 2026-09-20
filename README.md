@@ -17,9 +17,7 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 
 <i>Happy Coding!</i>
  
-</div>
-
-<br>
+</div><br>
 
 <h2 align="center">About me</h2>
 
