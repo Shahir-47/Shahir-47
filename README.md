@@ -24,7 +24,7 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 <h2 align="center">About me</h2>
 
 <br>
-
+<div align="center">
 Hi, I'm **Shahir Ahmed**, a software engineer in New York working on my Master's in Computer Science at NYU.
 
 Before NYU, I worked at [Sarva](https://www.sarvabazaar.com), an inventory management startup.
@@ -32,7 +32,7 @@ Before NYU, I worked at [Sarva](https://www.sarvabazaar.com), an inventory manag
 Most of what I build is full-stack, usually a Next.js or React frontend talking to a Spring Boot or FastAPI backend. My newer projects run on a [home server](https://lab.shahirahmed.com) I set up on an old gaming laptop.
 
 I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where I'm ranked 25th out of 600+ contributors.
-
+</div>
 <br>
 
 <p align="center">
