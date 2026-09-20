@@ -21,7 +21,7 @@ or <a href="mailto:shahir.a@nyu.edu"><b>email</b></a> me.
 
 <h2 align="center">About me</h2>
 
-<br>
+
 <div align="center">
 
 Hi, I'm **Shahir Ahmed**, a software engineer in New York working on my Master's in Computer Science at NYU.
@@ -47,7 +47,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Projects</h2>
 
-<br>
+
 
 <p align="center"><i>Consider giving my work a star to show some love.</i></p>
 
@@ -111,7 +111,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Hackathons</h2>
 
-<br>
+
 
 <table align="center">
   <tr>
@@ -138,7 +138,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Open Source</h2>
 
-<br>
+
 
 <table>
   <tr>
@@ -167,7 +167,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Where I've worked</h2>
 
-<br>
+
 
 <table>
   <tr>
@@ -219,7 +219,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Tech Stack</h2>
 
-<br>
+
 
 <table>
   <tr>
@@ -317,7 +317,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Education</h2>
 
-<br>
+
 
 <table>
   <tr>
@@ -343,7 +343,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Certifications</h2>
 
-<br>
+
 
 <table>
   <tr>
@@ -370,7 +370,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">GitHub Stats</h2>
 
-<br>
+
 
 <div align="center">
 
@@ -390,7 +390,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <h2 align="center">Random dev joke for you!</h2>
 
-<br>
+
 
 <div align="center">
 
