@@ -139,9 +139,9 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
 
 <p align="center"><i>Consider giving my work a star to show some love.</i></p>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <br>
       <a href="https://grab-pic.vercel.app"><img src="assets/projects/grabpic.png" width="100%" alt="GrabPic screenshot"></a>
       <h3>GrabPic</h3>
@@ -149,7 +149,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <p>After a wedding or event, the host shares one link and each guest takes a selfie to get only the photos they're in. Matches come back from albums of 500+ photos in under 200 milliseconds.</p>
       <p><sub>Next.js, Spring Boot, Python, pgvector, AWS, Redis, Docker</sub><br>&nbsp;</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <br>
       <a href="https://paper-pulse-nu.vercel.app"><img src="assets/projects/paperpulse.png" width="100%" alt="PaperPulse screenshot"></a>
       <h3>PaperPulse</h3>
@@ -159,9 +159,9 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <br>
       <a href="https://lab.shahirahmed.com"><img src="assets/projects/homeserver.png" width="100%" alt="Home Server screenshot"></a>
       <h3>Home Server</h3>
@@ -169,7 +169,7 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
       <p>An old Acer Nitro 5 gaming laptop that hosts my apps for about $1 a month instead of $100 on AWS. Traffic comes in through a Cloudflare Tunnel, so my router has no open ports.</p>
       <p><sub>Linux, Docker, Coolify, Cloudflare Tunnel, Tailscale, Uptime Kuma</sub><br>&nbsp;</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <br>
       <a href="https://queue-up.shahirahmed.com"><img src="assets/projects/queue-up.png" width="100%" alt="Queue Up screenshot"></a>
       <h3>Queue Up</h3>
@@ -179,21 +179,21 @@ I also contribute to [Mermaid.js](https://github.com/mermaid-js/mermaid), where 
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3>CoSign</h3>
       <p><a href="https://cosign-nwwl.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00ADB5?style=flat" alt="Live Demo" vspace="10"></a> <a href="https://github.com/Shahir-47/CoSign"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
       <p>A to-do app where you can't check off your own tasks. Someone you pick approves your proof, and if you miss the deadline, they get emailed a penalty you wrote ahead of time.</p>
       <p><sub>Spring Boot, React, TypeScript, WebSockets</sub><br>&nbsp;</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3>PandOS</h3>
       <p><a href="https://gitfront.io/r/Shahir-47/abfsq8dhTm4Z/Custom-OS-Kernel/"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
       <p>An operating system kernel I wrote in C for uMPS3, an emulated MIPS machine. It runs up to 20 processes on 5 millisecond time slices and handles semaphores, system calls, interrupts, and virtual memory.</p>
       <p><sub>C, MIPS, uMPS3</sub><br>&nbsp;</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3>BitTorrent Client</h3>
       <p><a href="https://github.com/Shahir-47/bittorrent-client-js"><img src="https://img.shields.io/badge/Code-333333?style=flat&logo=github&logoColor=white" alt="Code" vspace="10"></a></p>
       <p>Give it a .torrent file or a magnet link and it downloads the file straight from the peers sharing it, checking every piece against its SHA-1 hash. I wrote the bencode parser and the wire protocol myself.</p>
